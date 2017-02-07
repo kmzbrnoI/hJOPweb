@@ -42,6 +42,7 @@ kódy či hotové binární soubory na [githubu](https://github.com/kmzbrnoI/).
  * Jízda řízená DCC centrálou s rozhraním XpressNET. LI pro připojení k počítači.
  * Kolejiště rozdělené na kolejové obvody jako na  skutečné železnici, hlídání
    poloh řízených výhybek.
+ * Kalibrovaná hnací vozidla.
 
 ## Plány na rozšírení
 
