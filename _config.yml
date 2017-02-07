@@ -3,21 +3,21 @@
 #
 url: http://hjop.kmz-brno.cz
 title: hJOP
-description: SW pro řízení modelové železnice
+description: Komplexní řešení řízení modelového kolejiště dle ZTP-JOP
 avatar: /assets/img/hJOP.svg
-#favicon: /assets/img/ogp.png
+favicon: /assets/img/hJOP.ico
 language: en
 
 #
 # Icons
 #
 icons:
-  rss: true
-  email:
-  github: ttskch
+  rss: false
+  email: me@apophis.cz
+  github: kmzbrnoI
   bitbucket:
-  twitter: ttskch
-  facebook:
+  twitter:
+  facebook: kmzbrnoI
   google_plus:
   tumblr:
   behance:
