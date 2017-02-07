@@ -39,7 +39,7 @@ kódy či hotové binární soubory na [githubu](https://github.com/kmzbrnoI/).
 
 ## Požadavky
 
- * Příslušenství řízení pomocí [MTB-BUS](http://mtb.kmz-brno.cz/)
+ * Příslušenství řízené pomocí [MTB-BUS](http://mtb.kmz-brno.cz/).
  * Jízda řízená DCC centrálou s rozhraním XpressNET. LI pro připojení k počítači.
  * Kolejiště rozdělené na kolejové obvody jako na  skutečné železnici, hlídání
    poloh řízených výhybek.
