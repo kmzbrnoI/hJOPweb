@@ -36,6 +36,7 @@ kódy či hotové binární soubory na [githubu](https://github.com/kmzbrnoI/).
  * Podpora softwarových ovladačů.
  * Automatické řízení jízdy vlaků, možnost převzít řízení na ruční.
  * Podpora ovladačů pro mobilní zařízení.
+ * Uživatelské účty, autentizace dispečerů.
 
 ## Požadavky
 
