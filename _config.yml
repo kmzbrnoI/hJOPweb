@@ -2,10 +2,10 @@
 # Basic settings.
 #
 url: http://hjop.kmz-brno.cz
-title: hJOP – SW pro řízení modelové železnice
-description: Some descriptions of yourself.
-avatar: /assets/img/ogp.png
-favicon: /assets/img/ogp.png
+title: hJOP
+description: SW pro řízení modelové železnice
+avatar: /assets/img/hJOP.svg
+#favicon: /assets/img/ogp.png
 language: en
 
 #
