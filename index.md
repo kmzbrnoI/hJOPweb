@@ -46,9 +46,10 @@ kódy či hotové binární soubory na [githubu](https://github.com/kmzbrnoI/).
    poloh řízených výhybek.
  * Kalibrovaná hnací vozidla.
 
-## Plány na rozšírení
+## Plány na rozšíření
 
  * Poloautomatické staniční hlášení.
  * Houkání před pískáčky, automatické spouštění zvuků.
  * Možnost řídit příslušenství DCC centrálou.
+ * Umožnit dvojitou kolejovou spojku.
 
