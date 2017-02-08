@@ -15,8 +15,16 @@ hJOPserver udržuje databázi bloků, závěrovou tabulku, databázi hnacích vo
 souprav, stanic, zesilovačů a uživatelů.
 
 ![Screenshot stavu technologie](assets/img/hJOPserver-tech.png)
-![Screenshot seznamu bloků](assets/img/hJOPserver-bloky.png)
-![Screenshot editace jízdních cest](assets/img/hJOPserver-jc.png)
+*Stav technologie.*
+
+![Screenshot seznamu bloků](assets/img/hJOPserver-blk.png)
+*Databáze bloků.*
+
+![Screenshot databáze jízdních cest](assets/img/hJOPserver-jc.png)
+*Databáze jízdních cest.*
+
+![Screenshot databáze hnacích vozidel](assets/img/hJOPserver-jc.png)
+*Databáze hnacích vozidel.*
 
 Zdrojové kódy jsou k dispozici na [githubu](https://github.com/kmzbrnoI/hJOPserver),
 v [Releases](https://github.com/kmzbrnoI/hJOPserver/releases) jsou k dispozici

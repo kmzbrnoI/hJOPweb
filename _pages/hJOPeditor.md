@@ -14,7 +14,8 @@ Editace reliéfu probíhá v několika fázích:
 
 ## Bitmapa
 
-![Mód bitmapy](/assets/img/hJOPeditor-bmp)
+![Mód bitmapy](/assets/img/hJOPeditor-bmp.png)
+*Editační okno v módu bitmapy.*
 
 V této fázi si editor vytvoří obraz kolejiště v podstatě jako bitmapový
 obrázek. Blokům nepřiřazuje žádnou logiku. Na reliéf vkládá koleje, výhybky,
@@ -30,12 +31,14 @@ Po dokončení editace bitmapy editor celý reliéf *zvektorizuje* přepnutím d
 módu editace bloků. Jednotlivé segmenty se spojí v logické bloky -- například
 50 symbolů tvořící kolej 1 se spojí do jednoho bloku reprezentující kolej 1.
 
-![Mód vektorů](/assets/img/hJOPeditor-obj)
+![Mód vektorů](/assets/img/hJOPeditor-vektor.png)
+*Editační okno v módu bloků.*
 
 Editor každému bloku přiřadí technologický blok a soubor uloží v textovém formátu
 s příponou `opnl`. Soubor `opnl` bude později načten panelem.
 
-![Přiřazení technologických bloků](/assets/img/hJOPeditor-prirazeni)
+![Přiřazení technologických bloků](/assets/img/hJOPeditor-blk.png)
+*Přiřazování technologických bloků grafickým blokům.*
 
 Pozor: z tohoto módu není v současnosti cesty zpět do módu bitmapy. Reliéf
 tedy nelze změnit.

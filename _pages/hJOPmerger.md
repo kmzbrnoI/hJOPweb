@@ -11,5 +11,6 @@ a vygeneruje `spnl` soubor, který obsahuje matadata pro server.
 
 `spln` soubor se předhodí serveru.
 
-![hJOPmerger](/assestr/hJOPmerger)
+![hJOPmerger](/assets/img/hJOPmerger.png)
+*hJOPmerger.*
 
