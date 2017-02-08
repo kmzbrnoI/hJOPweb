@@ -9,7 +9,7 @@ Softwarový balík hJOP je složen z několika základních programů a několik
 programů rozšiřujících. Všechny tyto programy pracují v součinnosti tak, aby
 umožnily editaci kolejiště na míru a -- a to především -- pohodlné řízení.
 
-## Nutný SW
+## Základní SW
 
  * [**hJOPeditor**](/hJOPeditor): Editor sloužící k vytváření reliéfu stanic.
  * [**hJOPmerger**](/hJOPmerger): Maličký program, který vezme definice
