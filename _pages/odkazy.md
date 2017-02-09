@@ -2,7 +2,7 @@
 layout: page
 title: Odkazy
 permalink: /links
-order: 101
+order: 102
 ---
 
  * [Jan Horáček](http://apophis.cz/), autor projektu hJOP.
