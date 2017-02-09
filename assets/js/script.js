@@ -27,8 +27,7 @@ $(function () {
     });
 
     // stick aside.
-    var topSpacing = $(".site-aside").css("padding-top").replace(/px/, "");
     $(".site-aside .sticky").sticky({
-        topSpacing: parseInt(topSpacing)
+        topSpacing: 10
     });
 });
