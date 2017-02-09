@@ -1,13 +1,4 @@
 $(function () {
-    // focus on search input with '/' key.
-    $("body").on("keyup", function (e) {
-        e.stopPropagation();
-        var slashKeys = [47, 111, 191];
-        if (slashKeys.some(function (value) { return e.keyCode == value })) {
-            $("#search").focus();
-        }
-    });
-
     // add `target="_blank"` into all outer links.
     var host = document.location.host;
     $("a[href]").each(function() {
