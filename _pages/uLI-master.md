@@ -21,7 +21,7 @@ Co hůř -- on si toho ani nemusí všimnou. Prostě listuje v knihovně, omylem
 to kolečka řídícího jízdní stupeň a lokomotiva se rozjede.
 
 Proto jsme se rozhodli ke každému dispečerskému počítači, na kterém běží hJOPpanel,
-připojit enulátor DCC centrály, který poskytuje rozhraní XpressNET a ke kterému
+připojit emulátor DCC centrály, který poskytuje rozhraní XpressNET a ke kterému
 se budou připojovat ovladače pouze v této stanici. Přesně toto dělá krabička
 *uLI-master*. Obsahuje USB konektor pro připojení k počítači, napájecí konektor
 pro vstup 12 V pro napájení ovladačů a 2 XpressNET konektory pro připojení

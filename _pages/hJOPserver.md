@@ -23,7 +23,7 @@ souprav, stanic, zesilovačů a uživatelů.
 ![Screenshot databáze jízdních cest](assets/img/hJOPserver-jc.png)
 *Databáze jízdních cest.*
 
-![Screenshot databáze hnacích vozidel](assets/img/hJOPserver-jc.png)
+![Screenshot databáze hnacích vozidel](assets/img/hJOPserver-hv.png)
 *Databáze hnacích vozidel.*
 
 Zdrojové kódy jsou k dispozici na [githubu](https://github.com/kmzbrnoI/hJOPserver),

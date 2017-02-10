@@ -14,7 +14,7 @@ umožnily editaci kolejiště na míru a -- a to především -- pohodlné říz
 
  * [**hJOPeditor**](/hJOPeditor): editor sloužící k vytváření reliéfů stanic.
  * [**hJOPmerger**](/hJOPmerger): maličký program, který vezme definice
-   definice jednotlivých reliéfů z editoru a spojí je do konfiguračního souboru
+   jednotlivých reliéfů z editoru a spojí je do konfiguračního souboru
    pro server.
  * [**hJOPserver**](/hJOPserver): hlavní logický člen celého projektu. Řeší
    technologii provozu. Umožňuje konfigurovat technologické bloky kolejiště,
