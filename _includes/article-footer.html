@@ -1,5 +1,6 @@
+{% if site.share_buttons and include.share != false %}
 <footer>
-    {% if site.share_buttons and include.share != false %}
-    {% include share-buttons.html page=include.page %}
-    {% endif %}
+{% include share-buttons.html page=include.page %}
 </footer>
+{% endif %}
+
