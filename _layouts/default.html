@@ -73,7 +73,7 @@
     </div>
 
     <aside class="site-aside">
-        <div class="inner sticky">
+        <div class="inner">
             <ul style="margin-top:0px;">
                 {% assign pages = (site.pages | sort: 'order') %}
                 {% for page in pages %}
@@ -85,7 +85,7 @@
             <ul class="icons">
                 {% include icons.html icons=site.icons %}
             </ul>
-            <hr class="with-no-margin margin-bottom"/>
+            <hr class="with-no-margin"/>
         </div>
     </aside>
 </div>
