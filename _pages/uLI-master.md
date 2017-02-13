@@ -49,4 +49,6 @@ komunikačního protokolu.
  * [Výkres DPS](https://github.com/kmzbrnoI/uLI-pcb).
  * [Firmware včetně zdrojových kódů](https://github.com/kmzbrnoI/uLI-master-fw).
 
+![Výkres DPS](/assets/img/uLI-board-eagle.png)
+*Výkres desky plošných spojů uLI.*
 
