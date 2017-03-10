@@ -7,17 +7,17 @@ order: 101
 
 S vývojem hJOP pomáhali následující lidé, kterým bych tímto rád poděkoval:
 
- * **Michal Petrilak**, elektrotechnik a bývalý člen KMŽ Brno I. Navrhl schéma
+ * **Michal Petrilak**, elektrotechnik a bývalý člen KMŽ Brno I. Navrhl schéma
    [uLI](/uLI-master), naučil mě programovat, a doteď se mnou pravidelně
-   konzultuje nápady na vylepšení a postřehy z provozu. Je pro mě nezbytnou
+   konzultuje nápady na vylepšení a postřehy z provozu. Je pro mě nezbytnou
    morální podporou a studnicí zajímavých nápadů.
  * **Karel Pavlíček**, zabezpečovák pracující na releovce AŽD. Dokonale rozumí
    zabezpečovacím zařízení na železnici, pomáhal mi dát si dohromady logiku
    bezpečnostních prvků, kreslil symboly do reliéfu, testoval a podotýkal
    na chybové stavy.
- * **Petr Trávník**, člen KMŽ Brno I a autor vlastní instance JOPky --
+ * **Petr Trávník**, člen KMŽ Brno I a autor vlastní instance JOPky --
    [myJOP](http://jopka.cz/). Jeho JOPka pro mě byla tím, čeho bych chtěl někdy
-   dosáhnout. Z jeho JOPky jsem se poučil a věděl, které věci mám jak implementovat.
+   dosáhnout. Z jeho JOPky jsem se poučil a věděl, které věci mám jak implementovat.
  * **Miroslav Mařík**, bývalý student MENDELU a autor aplikace
    [Train Manager](/TrainManager).
 

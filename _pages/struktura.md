@@ -5,38 +5,38 @@ permalink: /struct
 order: 2
 ---
 
-Softwarový balík hJOP je složen z několika základních programů a několika
-programů rozšiřujících. Všechny tyto programy pracují v součinnosti tak, aby
+Softwarový balík hJOP je složen z několika základních programů a několika
+programů rozšiřujících. Všechny tyto programy pracují v součinnosti tak, aby
 umožnily editaci kolejiště na míru a -- a to především -- pohodlné řízení.
 
 
 ## Základní SW
 
- * [**hJOPeditor**](/hJOPeditor): editor sloužící k vytváření reliéfů stanic.
+ * [**hJOPeditor**](/hJOPeditor): editor sloužící k vytváření reliéfů stanic.
  * [**hJOPmerger**](/hJOPmerger): maličký program, který vezme definice
-   jednotlivých reliéfů z editoru a spojí je do konfiguračního souboru
+   jednotlivých reliéfů z editoru a spojí je do konfiguračního souboru
    pro server.
  * [**hJOPserver**](/hJOPserver): hlavní logický člen celého projektu. Řeší
    technologii provozu. Umožňuje konfigurovat technologické bloky kolejiště,
-   načítat definiční soubory reliéfů z *hJOPmerger*u a provozovat kolejiště.
+   načítat definiční soubory reliéfů z *hJOPmerger*u a provozovat kolejiště.
    Pro provoz kolejiště je typicky zapnutý na samostatném počítači,
-   dispečeři s ním neinteragují. Jedná se o hlavní mozek celého provozu.
- * [**hJOPpanel**](/hJOPpanel): panel umožňující zobrazovat reliéfy vytvořené v
-   *hJOPeditor*u. Panel se připojuje pomocí počítačové sítě k běžícímu
-   *hJOPserveru* a umožňuje získat a změnit stav kolejiště. Jedná se o terminál,
-   který je běžně ovládán dispečery. V síti je obvykle spuštěno několik možných
-   panelů -- například každý u konkrétní stanice --, které se připojují k
-   jednomu serveru. Na jednom počítači lze také spustit více panelů.
+   dispečeři s ním neinteragují. Jedná se o hlavní mozek celého provozu.
+ * [**hJOPpanel**](/hJOPpanel): panel umožňující zobrazovat reliéfy vytvořené
+   v *hJOPeditor*u. Panel se připojuje pomocí počítačové sítě k běžícímu
+   *hJOPserveru* a umožňuje získat a změnit stav kolejiště. Jedná se o terminál,
+   který je běžně ovládán dispečery. V síti je obvykle spuštěno několik možných
+   panelů -- například každý u konkrétní stanice --, které se připojují
+   k jednomu serveru. Na jednom počítači lze také spustit více panelů.
 
 
 ## Rozšiřující SW
 
- * [**Jerry**](/Jerry): jednoduchý program umožňující řídit jízdu vlaku z role
+ * [**Jerry**](/Jerry): jednoduchý program umožňující řídit jízdu vlaku z role
    strojvedoucího.
- * [**uLI-master**](/uLI-master): hardware umožňující připojení Roco Multimaus k
-   obslužným pracovištím, umožňuje řídit jízdu vlaku hardwarovým ovladačem.
+ * [**uLI-master**](/uLI-master): hardware umožňující připojení Roco Multimaus
+   k obslužným pracovištím, umožňuje řídit jízdu vlaku hardwarovým ovladačem.
  * [**uLI-daemon**](/uLI-daemon): software umožňující spřažení *uLI-master*
    se zbytkem technologie kolejiště. Je nutný pro funkci *uLI-master*.
- * [**Train Manager**](/TrainManager): mobilní aplikace pro Android sloužící k
-   řízení jízdy souprav.
+ * [**Train Manager**](/TrainManager): mobilní aplikace pro Android sloužící
+   k řízení jízdy souprav.
 

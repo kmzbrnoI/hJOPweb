@@ -5,13 +5,13 @@ permalink: /mtb-lib
 order: 40
 ---
 
-Pro správnou funkčnost hJOP byla vyvinuta knihovna komunikující s
-[MTB-USB](http://mtb.kmz-brno.cz/modul_usb.htm) zařízení a knihovna, která umí
+Pro správnou funkčnost hJOP byla vyvinuta knihovna komunikující
+s [MTB-USB](http://mtb.kmz-brno.cz/modul_usb.htm) zařízení a knihovna, která umí
 simulovat skutečné [MTB](http://mtb.kmz-brno.cz/) pro účely vývoje.
 
 Tyto knihovny zároveň mohou sloužit komukoliv, kdo má zájem snadno a rychle
-komunikovat s [MTB](http://mtb.kmz-brno.cz/) -- například pro studenty v
-Laboratoři řízení kolejových vozidel MENDELU.
+komunikovat s [MTB](http://mtb.kmz-brno.cz/) -- například pro studenty
+v Laboratoři řízení kolejových vozidel MENDELU.
 
 Knihovny jsou dodávány jako dll soubory.
 
@@ -29,7 +29,7 @@ systém MTB simulovat prostou výměnou dll souborů.
 
 ## RCS – Railroad Control System Interface
 
-RCS je implementace rozhraní umožňující načíst dll knihovnu přímo z vašeho
+RCS je implementace rozhraní umožňující načíst dll knihovnu přímo z vašeho
 oblíbeného programovacího jazyka a využívat její funkcionality prostým voláním
 metod třídy.
 

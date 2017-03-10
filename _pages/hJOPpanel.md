@@ -5,18 +5,18 @@ permalink: /hJOPpanel
 order: 13
 ---
 
-hJOPpanel je terminál zobrazující reliéf v aktuálním stavu kolejiště.
+hJOPpanel je terminál zobrazující reliéf v aktuálním stavu kolejiště.
 
 Umožňuje načíst `opnl` soubor vygenerovaný editorem, který reprezentuje reliéf.
 
-Viz [projekt na githubu](https://github.com/kmzbrnoI/hJOPpanel). V *Releases*
-jsou k dispozici spustitelné soubory ke stažení.
+Viz [projekt na githubu](https://github.com/kmzbrnoI/hJOPpanel). V *Releases*
+jsou k dispozici spustitelné soubory ke stažení.
 
 ![hJOPpanel](/assets/img/hJOPpanel-kr-sm1.png)
-*Panel s postavenými vlakovými cestami.*
+*Panel s postavenými vlakovými cestami.*
 
 ![hJOPpanel](/assets/img/hJOPpanel-dcc.png)
-*Panel s indikující výpadek DCC signálu.*
+*Panel s indikující výpadek DCC signálu.*
 
 ![hJOPpanel](/assets/img/hJOPpanel-fialova-smrt.png)
 *Fialová smrt.*

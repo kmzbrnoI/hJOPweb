@@ -26,8 +26,8 @@ souprav, stanic, zesilovačů a uživatelů.
 ![Screenshot databáze hnacích vozidel](assets/img/hJOPserver-hv.png)
 *Databáze hnacích vozidel.*
 
-Zdrojové kódy jsou k dispozici na [githubu](https://github.com/kmzbrnoI/hJOPserver),
-v [Releases](https://github.com/kmzbrnoI/hJOPserver/releases) jsou k dispozici
+Zdrojové kódy jsou k dispozici na [githubu](https://github.com/kmzbrnoI/hJOPserver),
+v [Releases](https://github.com/kmzbrnoI/hJOPserver/releases) jsou k dispozici
 zkompilované servery různých verzí. Projekt taky obsahuje
 [Wiki](https://github.com/kmzbrnoI/hJOPserver/wiki), kde jsou popsaná dostupná
 API serveru.
