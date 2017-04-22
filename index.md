@@ -23,11 +23,13 @@ může stáhnout zdrojové kódy či spustitelné soubory na
 
 ## Základní vlastnosti
 
+ * Grafické rozhraní na bázi jednotného obslužného pracoviště (JOP).
  * Platforma OS Windows.
  * Editor technologických bloků, editor reliéfů stanic.
  * Kolejové úseky, výhybky, infračidla, SCom i mechanická návěstidla, tratě,
    zámky, přejezdy, rozpojovače, výkolejky.
  * Jízdní cesty, plně konfigurovatelná závěrová tabulka.
+ * Přenos čísla vlaku.
  * Podpora pro snímání stavu zesilovačů na kolejišti.
  * Možnost spustit kolejiště v *automatickém režimu*, kdy kolejiště na klik
    odjezdí předem připravený grafikon. Grafikon lze editovat ve vlastním
@@ -35,22 +37,23 @@ může stáhnout zdrojové kódy či spustitelné soubory na
  * Řízení v režimu server–klienti.
  * Podpora ručních ovladačů (např. Roco Multimaus).
  * Podpora softwarových ovladačů.
- * Automatické řízení jízdy vlaků, možnost převzít řízení ovladačem.
  * Podpora ovladačů na mobilních zařízeních.
+ * Automatické řízení jízdy vlaků, možnost převzít řízení ovladačem.
  * Uživatelské účty, autentizace dispečerů.
+ * Automatické spouštění zvuků (houkání před pískáčky, trubka vlakvedoucího
+   v zastávce).
 
 ## Požadavky
 
  * Příslušenství řízené pomocí [MTB-BUS](http://mtb.kmz-brno.cz/).
- * Jízda řízená DCC centrálou s rozhraním XpressNET. LI pro připojení k počítači.
+ * Jízda řízená DCC centrálou s rozhraním XpressNET. LI pro připojení k počítači.
  * Kolejiště rozdělené na kolejové obvody jako na skutečné železnici, hlídání
    poloh řízených výhybek.
- * Kalibrovaná hnací vozidla.
+ * Kalibrovaná hnací vozidla ([Co to znamená?](http://www.kmz-brno.cz/rychlostni-tabulky-pro-provoz-vozidel-na-klubovnich-kolejistich/)).
 
 ## Plány na rozšíření
 
  * Poloautomatické staniční hlášení.
- * Houkání před pískáčky, automatické spouštění zvuků.
  * Možnost řídit příslušenství DCC centrálou.
  * Umožnit dvojitou kolejovou spojku.
 
