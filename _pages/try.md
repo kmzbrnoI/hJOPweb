@@ -10,7 +10,12 @@ aplikací z githubu, například:
 
  * [hJOPeditor](https://github.com/kmzbrnoI/hJOPeditor/releases),
  * [hJOPserver](https://github.com/kmzbrnoI/hJOPserver/releases),
+ * [hJOPmerger](https://github.com/kmzbrnoI/hJOPmerger/releases),
  * [hJOPpanel](https://github.com/kmzbrnoI/hJOPpanel/releases).
+
+Další aplikace (Jerry, uLI-daemon, ...) jsou k dispozici u jednotlivých
+projektů na [githubu](https://github.com/kmzbrnoI) vždy pod záložkou
+*Releases*.
 
 Chcete-li si kreslit vlastní panely, mohou se vám pro inspiraci hodit [panely
 stanic Klubu modelářů železnic Brno I](https://github.com/kmzbrnoI/hJOPpanely).

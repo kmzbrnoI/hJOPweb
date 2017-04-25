@@ -14,3 +14,4 @@ a vygeneruje `spnl` soubor, který obsahuje matadata pro server.
 ![hJOPmerger](/assets/img/hJOPmerger.png)
 *hJOPmerger.*
 
+Viz [projekt na githubu](https://github.com/kmzbrnoI/hJOPmerger).
