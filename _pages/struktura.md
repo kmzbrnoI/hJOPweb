@@ -37,6 +37,6 @@ umožnily editaci kolejiště na míru a -- a to především -- pohodlné říz
    k obslužným pracovištím, umožňuje řídit jízdu vlaku hardwarovým ovladačem.
  * [**uLI-daemon**](/uLI-daemon): software umožňující spřažení *uLI-master*
    se zbytkem technologie kolejiště. Je nutný pro funkci *uLI-master*.
- * [**Train Manager**](/TrainManager): mobilní aplikace pro Android sloužící
+ * [**Android Driver**](/androidDriver): mobilní aplikace pro Android sloužící
    k řízení jízdy souprav.
 

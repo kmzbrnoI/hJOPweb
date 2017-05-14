@@ -19,7 +19,7 @@ S vývojem hJOP pomáhali následující lidé, kterým bych tímto rád poděko
    [myJOP](http://jopka.cz/). Jeho JOPka pro mě byla tím, čeho bych chtěl někdy
    dosáhnout. Z jeho JOPky jsem se poučil a věděl, které věci mám jak implementovat.
  * **Miroslav Mařík**, bývalý student MENDELU a autor aplikace
-   [Train Manager](/TrainManager).
+   [Android Driver](/androidDriver).
 
 Dále bych rád poděkoval [Klubu modelářů železnic Brno I](http://kmz-brno.cz/)
 za možnost pracovat na tak skvělém projektu. Ať už jde o prostory, existující

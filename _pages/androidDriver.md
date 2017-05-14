@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Train Manager
-permalink: /TrainManager
+title: hJOP Android Driver
+permalink: /androidDriver
 order: 32
 ---
 
-TrainManager je mobilní aplikace pro OS Android, která umožňuje řídit jízdu
-hnacích vozidel ve spolupráci s hJOP. Plně podporuje workflow předávání a
+hJOP Android Driver je mobilní aplikace pro OS Android, která umožňuje řídit
+jízdu hnacích vozidel ve spolupráci s hJOP. Plně podporuje workflow předávání a
 uvolňování lokomotiv za využití spolupráce dispečerů.
+
+Zdrojové kódy jsou k dispozici na
+[Githubu](https://github.com/kmzbrnoI/hJOPandroidDriver), aplikace je volně
+dostupná v Google Play.
 
 ![Screenshot řídící aktivity](/assets/img/tm-rizeni.png)
 
