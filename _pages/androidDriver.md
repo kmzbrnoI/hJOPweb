@@ -11,7 +11,9 @@ uvolňování lokomotiv za využití spolupráce dispečerů.
 
 Zdrojové kódy jsou k dispozici na
 [Githubu](https://github.com/kmzbrnoI/hJOPandroidDriver), aplikace je volně
-dostupná v Google Play.
+dostupná v [Google Play](https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager).
+
+<a href='https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="no-link" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
 
 ![Screenshot řídící aktivity](/assets/img/tm-rizeni.png)
 

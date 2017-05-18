@@ -9,8 +9,9 @@ $(function () {
     });
 
     // center and linkable all images.
-    var $images = $("article img:not(.emoji, .eye-catch)");
+    var $images = $("article img:not(.emoji, .eye-catch, .no-center)");
     $images.closest("p").css("text-align", "center");
+    var $images = $("article img:not(.emoji, .eye-catch, .no-link)");
     $images.each(function () {
         var imgUrl = $(this).attr("src");
         var $a = $("<a>").attr("href", imgUrl).attr("target", "_blank");
