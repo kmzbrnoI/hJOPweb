@@ -15,7 +15,7 @@ dostupná v [Google Play](https://play.google.com/store/apps/details?id=cz.mend
 
 <a href='https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="no-link" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
 
-![Screenshot řídící aktivity](/assets/img/tm-rizeni.png)
+<img src="/assets/img/tm-rizeni.png" style="max-width: 600px;" />
 
 Aplikace vznikla jako [diplomová práce](http://is.mendelu.cz/lide/clovek.pl?id=43049;zalozka=7;studium=77602;zp=54008;lang=cz)
 [Ing Miroslava Maříka](http://is.mendelu.cz/lide/clovek.pl?id=43049;lang=cz)
@@ -23,7 +23,8 @@ v Laboratoři řízení kolejových vozidel MENDELU pod vedením doc. Jiřího 
 a s technickou asistencí Jana Horáčka. Aplikace umožňuje vše, co umožňuje
 [Jerry](/Jerry), jen na mobilní platformě.
 
-![Screenshot výběru serverů](/assets/img/tm-servery.png)
+<img src="/assets/img/tm-servery.png" style="max-width: 200px;" />
+<img src="/assets/img/tm-menu.png" style="max-width: 200px;" />
 
 ## Funkce
 
