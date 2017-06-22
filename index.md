@@ -9,7 +9,7 @@ hJOP je softwarový balík umožňující řídit modelové kolejiště dle ZTP-
 *Terminál stanice Klobouky u Brna.*
 
 hJOP je momentálně nasazena na modulových kolejištích [Klubu modelářů železnic
-Brno I](http;//kmz-brno.cz/), kde umožňuje provoz na výstavách a zároveň slouží
+Brno I](http://kmz-brno.cz/), kde umožňuje provoz na výstavách a zároveň slouží
 jako bázový software pro výuku řízení kolejových vozidel v Laboratoři řízení
 kolejových vozidel MENDELU.
 
