@@ -27,7 +27,7 @@ může stáhnout zdrojové kódy či spustitelné soubory na
  * Platforma OS Windows.
  * Editor technologických bloků, editor reliéfů stanic.
  * Kolejové úseky, výhybky, infračidla, SCom i mechanická návěstidla, tratě,
-   zámky, přejezdy, rozpojovače, výkolejky.
+   zámky, přejezdy, rozpojovače, výkolejky, dvojitá kolejová spojka.
  * Jízdní cesty, plně konfigurovatelná závěrová tabulka.
  * Přenos čísla vlaku.
  * Podpora pro snímání stavu zesilovačů na kolejišti.
@@ -55,5 +55,4 @@ může stáhnout zdrojové kódy či spustitelné soubory na
 ## Plány na rozšíření
 
  * Možnost řídit příslušenství DCC centrálou.
- * Umožnit dvojitou kolejovou spojku.
 
