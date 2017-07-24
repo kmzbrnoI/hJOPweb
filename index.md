@@ -42,7 +42,7 @@ může stáhnout zdrojové kódy či spustitelné soubory na
  * Uživatelské účty, autentizace dispečerů.
  * Automatické spouštění zvuků (houkání před pískáčky, trubka vlakvedoucího
    v zastávce).
- * Poloautomatické staniční hlášení
+ * Poloautomatické staniční hlášení.
 
 ## Požadavky
 
