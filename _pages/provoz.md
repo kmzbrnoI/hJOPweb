@@ -15,3 +15,6 @@ Několik fotografií z provozu:
 
 ![Klobouky u Brna](/assets/img/provoz/klobouky-2017.png)
 *Obslužný panel stanice Klobouky u Brna. Únor 2017.*
+
+![Nedvědice 2017](/assets/img/provoz/nedvedice2017.png)
+*Řízení celé trati z jediného stanoviště. Nedvědice, červenec 2017.*
