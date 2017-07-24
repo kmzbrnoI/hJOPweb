@@ -52,7 +52,8 @@ může stáhnout zdrojové kódy či spustitelné soubory na
    poloh řízených výhybek.
  * Kalibrovaná hnací vozidla ([Co to znamená?](http://www.kmz-brno.cz/rychlostni-tabulky-pro-provoz-vozidel-na-klubovnich-kolejistich/)).
 
-## Plány na rozšíření
+## Rozpracováno
 
- * Možnost řídit příslušenství DCC centrálou.
+ * Možnost řídit příslušenství DCC centrálou pomocí sběrnice RS či S88.
+ * Možnost zadat na jednu staniční kolej více souprav.
 
