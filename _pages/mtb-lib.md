@@ -11,7 +11,7 @@ simulovat skutečné [MTB](http://mtb.kmz-brno.cz/) pro účely vývoje.
 
 Tyto knihovny zároveň mohou sloužit komukoliv, kdo má zájem snadno a rychle
 komunikovat s [MTB](http://mtb.kmz-brno.cz/) -- například pro studenty
-v Laboratoři řízení kolejových vozidel MENDELU.
+v [Laboratoři řízení kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/).
 
 Knihovny jsou dodávány jako dll soubory.
 

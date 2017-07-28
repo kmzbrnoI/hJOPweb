@@ -10,8 +10,8 @@ hJOP je softwarový balík umožňující řídit modelové kolejiště dle ZTP-
 
 hJOP je momentálně nasazena na modulových kolejištích [Klubu modelářů železnic
 Brno I](http://kmz-brno.cz/), kde umožňuje provoz na výstavách a zároveň slouží
-jako bázový software pro výuku řízení kolejových vozidel v Laboratoři řízení
-kolejových vozidel MENDELU.
+jako bázový software pro výuku řízení kolejových vozidel v [Laboratoři řízení
+kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/).
 
 hJOP umožňuje plně konfigurovat layout kolejiště, vytvoření reliéfů pro řízení
 konkrétního kolejiště je v podstatě otázka *kreslení v malování* a znalostí

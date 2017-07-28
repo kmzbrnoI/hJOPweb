@@ -10,7 +10,7 @@ modelářů železnic Brno I](http://kmz-brno.cz/) a současný student [Fakult
 informatiky Masarykovy univerzity](http://fi.muni.cz/). Přidružené aplikace
 bývají dílem dalších osob, například [Android Driver](/androidDriver) vytvořil
 [Ing. Miroslav Mařík](http://is.mendelu.cz/lide/clovek.pl?id=43049) v rámci
-diplomové práce v Laboratoří řízení kolejových vozidel.
+diplomové práce v [Laboratoří řízení kolejových vozidel](http://lrkv.pef.mendelu.cz/).
 
 Autor bude rád za jakékoliv připomínky k projektu a náměty na zlepšení. Avšak
 není jeho současným cílem poskytovat veřejný servis k hJOP, především

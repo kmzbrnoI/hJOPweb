@@ -19,9 +19,9 @@ dostupná v [Google Play](https://play.google.com/store/apps/details?id=cz.mend
 
 Aplikace vznikla jako [diplomová práce](http://is.mendelu.cz/lide/clovek.pl?id=43049;zalozka=7;studium=77602;zp=54008;lang=cz)
 [Ing Miroslava Maříka](http://is.mendelu.cz/lide/clovek.pl?id=43049;lang=cz)
-v Laboratoři řízení kolejových vozidel MENDELU pod vedením doc. Jiřího Rybičky
-a s technickou asistencí Jana Horáčka. Aplikace umožňuje vše, co umožňuje
-[Jerry](/Jerry), jen na mobilní platformě.
+v [Laboratoři řízení kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/)
+pod vedením doc. Jiřího Rybičky a s technickou asistencí Jana Horáčka. Aplikace
+umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
 
 <img src="/assets/img/tm-servery.png" style="max-width: 200px;" />
 <img src="/assets/img/tm-menu.png" style="max-width: 200px;" />
