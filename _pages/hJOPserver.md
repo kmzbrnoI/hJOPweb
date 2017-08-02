@@ -6,7 +6,7 @@ order: 10
 ---
 
 hJOPserver je centrální mozek celého řízení kolejiště. Umožňuje editovat
-technologické bloky, připojit se ke kolejišti pomocí [MTB](/mtb-lib) a LI a
+technologické bloky, připojit se ke kolejišti pomocí [MTB](/rcs) a LI a
 řídit jej. Umožňuje připojení [obslužných pracovišť](/hJOPpanel) skrze
 počítačovou síť a komunikaci jednoduchým
 [protokolem](https://github.com/kmzbrnoI/hJOPserver/wiki/panelServer).
@@ -32,7 +32,7 @@ zkompilované servery různých verzí. Projekt taky obsahuje
 [Wiki](https://github.com/kmzbrnoI/hJOPserver/wiki), kde jsou popsaná dostupná
 API serveru.
 
-hJOPserver využívá [MTB knihovnu](/mtb-lib).
+hJOPserver využívá [MTB knihovnu](/rcs).
 
 Více v dokumentaci [na githubu](https://github.com/kmzbrnoI/hJOPserver).
 
