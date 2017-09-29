@@ -43,6 +43,7 @@ může stáhnout zdrojové kódy či spustitelné soubory na
  * Automatické spouštění zvuků (houkání před pískáčky, trubka vlakvedoucího
    v zastávce).
  * Poloautomatické staniční hlášení.
+ * Možnost zadat na jednu staniční kolej více souprav.
 
 ## Požadavky
 
@@ -55,5 +56,4 @@ může stáhnout zdrojové kódy či spustitelné soubory na
 ## Rozpracováno
 
  * Možnost řídit příslušenství DCC centrálou pomocí sběrnice RS či S88.
- * Možnost zadat na jednu staniční kolej více souprav.
 
