@@ -25,7 +25,7 @@ může stáhnout zdrojové kódy či spustitelné soubory na
 
  * Grafické rozhraní na bázi jednotného obslužného pracoviště (JOP).
  * Platforma OS Windows.
- * Editor technologických bloků, editor reliéfů stanic.
+ * Editor technologických bloků, [editor reliéfů stanic](/hJOPeditor).
  * Kolejové úseky, výhybky, infračidla, SCom i mechanická návěstidla, tratě,
    zámky, přejezdy, rozpojovače, výkolejky, dvojitá kolejová spojka.
  * Jízdní cesty, plně konfigurovatelná závěrová tabulka.
@@ -36,8 +36,8 @@ může stáhnout zdrojové kódy či spustitelné soubory na
    skriptovacím jazyce.
  * Řízení v režimu server–klienti.
  * Podpora ručních ovladačů (např. Roco Multimaus).
- * Podpora softwarových ovladačů.
- * Podpora ovladačů na mobilních zařízeních.
+ * Podpora [softwarových ovladačů](/Jerry).
+ * Podpora [ovladačů na mobilních zařízeních](/androidDriver).
  * Automatické řízení jízdy vlaků, možnost převzít řízení ovladačem.
  * Uživatelské účty, autentizace dispečerů.
  * Automatické spouštění zvuků (houkání před pískáčky, trubka vlakvedoucího
