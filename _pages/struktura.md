@@ -5,25 +5,25 @@ permalink: /struct
 order: 2
 ---
 
-Softwarový balík hJOP je složen z několika základních programů a několika
+Softwarový balík hJOP je složen z několika základních programů a několika
 programů rozšiřujících. Všechny tyto programy pracují v součinnosti tak, aby
-umožnily editaci kolejiště na míru a -- a to především -- pohodlné řízení.
+umožnily editaci kolejiště na míru a -- a to především -- pohodlné řízení.
 
 
 ## Základní SW
 
  * [**hJOPeditor**](/hJOPeditor): editor sloužící k vytváření reliéfů stanic.
  * [**hJOPmerger**](/hJOPmerger): maličký program, který vezme definice
-   jednotlivých reliéfů z editoru a spojí je do konfiguračního souboru
+   jednotlivých reliéfů z editoru a spojí je do konfiguračního souboru
    pro server.
  * [**hJOPserver**](/hJOPserver): hlavní logický člen celého projektu. Řeší
    technologii provozu. Umožňuje konfigurovat technologické bloky kolejiště,
-   načítat definiční soubory reliéfů z *hJOPmerger*u a provozovat kolejiště.
+   načítat definiční soubory reliéfů z *hJOPmerger*u a provozovat kolejiště.
    Pro provoz kolejiště je typicky zapnutý na samostatném počítači,
    dispečeři s ním neinteragují. Jedná se o hlavní mozek celého provozu.
  * [**hJOPpanel**](/hJOPpanel): panel umožňující zobrazovat reliéfy vytvořené
    v *hJOPeditor*u. Panel se připojuje pomocí počítačové sítě k běžícímu
-   *hJOPserveru* a umožňuje získat a změnit stav kolejiště. Jedná se o terminál,
+   *hJOPserveru* a umožňuje získat a změnit stav kolejiště. Jedná se o terminál,
    který je běžně ovládán dispečery. V síti je obvykle spuštěno několik možných
    panelů -- například každý u konkrétní stanice --, které se připojují
    k jednomu serveru. Na jednom počítači lze také spustit více panelů.

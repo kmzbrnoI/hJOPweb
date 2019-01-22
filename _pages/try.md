@@ -5,7 +5,7 @@ permalink: /vyzkouset
 order: 3
 ---
 
-hJOP si můžete vyzkoušet stažením a spuštěním binárních souborů jednotlivých
+hJOP si můžete vyzkoušet stažením a spuštěním binárních souborů jednotlivých
 aplikací z githubu, například:
 
  * [hJOPeditor](https://github.com/kmzbrnoI/hJOPeditor/releases),

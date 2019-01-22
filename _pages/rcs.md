@@ -20,7 +20,7 @@ MTB knihovna je dostupná [na githubu](https://github.com/kmzbrnoI/mtb-lib), kde
 je [velmi vyčerpávající dokumentace](https://github.com/kmzbrnoI/mtb-lib/wiki)
 jejího API. Toto API je společné pro všechny RCS knihovny.
 
-Tato knihovna může sloužit komukoliv, kdo má zájem snadno a rychle
+Tato knihovna může sloužit komukoliv, kdo má zájem snadno a rychle
 komunikovat s [MTB](http://mtb.kmz-brno.cz/) -- například studentům
 v [Laboratoři řízení kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/).
 
@@ -33,21 +33,21 @@ systém MTB simulovat prostou výměnou dll souborů.
 ## XpressNET knihovna
 
 [XpressNET knihovna](https://github.com/kmzbrnoI/rcs-lib-XpressNET) umožňuje
-připojení ke sběrnici XpressNET, skrze kterou lze řídit kolejiště a získávat
+připojení ke sběrnici XpressNET, skrze kterou lze řídit kolejiště a získávat
 informace z něj. Pro připojení ke kolejišti je nutné využít dvě LI -- jedno
-se připojuje přímo k hJOPserveru a druhé k této knihovně.
+se připojuje přímo k hJOPserveru a druhé k této knihovně.
 
 Knihovna zatím není hotová, momentálně je ve vývoji.
 
 ## RCS – Railroad Control System Interface
 
 RCS je implementace rozhraní umožňující načíst dll knihovnu přímo z vašeho
-oblíbeného programovacího jazyka a využívat její funkcionality prostým voláním
+oblíbeného programovacího jazyka a využívat její funkcionality prostým voláním
 metod třídy.
 
 Momentálně existuje [pro jazyk Object Pascal](https://github.com/kmzbrnoI/rcs-delphi).
 
-## Vzorová RCS knihovna v jazyce C
+## Vzorová RCS knihovna v jazyce C
 
 Pokud si chcete napsat vlastní RCS knihovnu, můžete využít
 [šablonu pro jazyk C](https://github.com/kmzbrnoI/rcs-lib). Na této šabloně

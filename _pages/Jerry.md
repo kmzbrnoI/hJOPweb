@@ -5,7 +5,7 @@ permalink: /Jerry
 order: 20
 ---
 
-Jerry je jednoduchá klientská aplikace, která se připojuje k hJOPserveru a která
+Jerry je jednoduchá klientská aplikace, která se připojuje k hJOPserveru a která
 umožňuje řízení jízdy hnacích vozidel.
 
 ![Jerry](/assets/img/Jerry.png)
@@ -20,13 +20,13 @@ Viz [projekt na githubu](https://github.com/kmzbrnoI/Jerry).
  * Řízení jízdního stupně, směru.
  * Možnost nouzového zastaveni, možnost plynulého zastavení.
  * Multitrakce.
- * Rozlišení mezi totálním ručním řízením (vhodné např. pro posun) a poloručním
+ * Rozlišení mezi totálním ručním řízením (vhodné např. pro posun) a poloručním
    řízením (vhodné např. pro řízeni funkcí HV v trati).
  * Kontrola odpovědi serveru, resp. centrály, na příkaz.
- * Možnost převzít hnací vozidla na ruční ovladač na sběrnici XpressNET a zpět
+ * Možnost převzít hnací vozidla na ruční ovladač na sběrnici XpressNET a zpět
    do regulátoru.
  * Žádost o lokomotivu(y) do oblasti řízení.
- * Změna serveru, portu, uživatelského jména a hesla.
+ * Změna serveru, portu, uživatelského jména a hesla.
  * Převzetí hnacího vozidla za pomoci autorizačního tokenu.
  * Kompatibilita s vnějšími programy akceptováním argumentů.
 

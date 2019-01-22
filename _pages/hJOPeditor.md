@@ -19,7 +19,7 @@ Editace reliéfu probíhá v několika fázích:
 
 V této fázi si editor vytvoří obraz kolejiště v podstatě jako bitmapový
 obrázek. Blokům nepřiřazuje žádnou logiku. Na reliéf vkládá koleje, výhybky,
-návěstidla, přejezdy a všechny další symboly, které se v reliéfu mají objevit.
+návěstidla, přejezdy a všechny další symboly, které se v reliéfu mají objevit.
 Soubor je možno uložit do binárního souboru s příponou `bpnl`.
 
 Editor se následně přepne do módu oddělovačů, kde vloží dělení mezi úseky.
@@ -34,7 +34,7 @@ módu editace bloků. Jednotlivé segmenty se spojí v logické bloky -- např�
 ![Mód vektorů](/assets/img/hJOPeditor-vektor.png)
 *Editační okno v módu bloků.*
 
-Editor každému bloku přiřadí technologický blok a soubor uloží v textovém formátu
+Editor každému bloku přiřadí technologický blok a soubor uloží v textovém formátu
 s příponou `opnl`. Soubor `opnl` bude později načten panelem.
 
 ![Přiřazení technologických bloků](/assets/img/hJOPeditor-blk.png)
