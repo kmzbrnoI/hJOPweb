@@ -39,4 +39,6 @@ umožnily editaci kolejiště na míru a -- a to především -- pohodlné říz
    se zbytkem technologie kolejiště. Je nutný pro funkci *uLI-master*.
  * [**Android Driver**](/androidDriver): mobilní aplikace pro Android sloužící
    k řízení jízdy souprav.
+ * [**hJOPclock**](/hJOPclock): desktopová aplikace umožňující zobrazit modelový
+   čas (například na projektor).
 
