@@ -21,3 +21,10 @@ dispečerů k obsluze hJOP.
 Pdf je k dispozici v Releases
 v [projektu na githubu](https://github.com/horacekj/hJOPquiz).
 
+## Automatická kalibrace
+
+hJOP vyžaduje, aby všechna hnací hnací vozidla měla pevné přiřazení rychlostního
+stupně na skutečnou rychlost. Pro naplnění tohoto požadavku je lokomotivy třeba
+[zkalibrovat](https://www.kmz-brno.cz/kalibrace-vozidel-v-jmri/). Pro
+urychlení procesu kalibrace vznikla myšlenka
+[automatické kalibrace](https://wsm.kmz-brno.cz/cz/auto-calib).
