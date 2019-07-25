@@ -15,7 +15,7 @@ robots: index,follow
 # Icons
 #
 icons:
-  rss: false
+  rss: true
   email: jan.horacek@kmz-brno.cz
   github: kmzbrnoI
   bitbucket:
@@ -48,6 +48,11 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-sitemap
+
+#
+# Localizations.
+#
+str_recent_posts: Aktuality
 
 #
 # Styles: see "_sass/base/_variables.scss"
