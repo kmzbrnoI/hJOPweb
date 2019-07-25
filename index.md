@@ -5,21 +5,25 @@ title: O projektu
 
 hJOP je softwarový balík umožňující řídit modelové kolejiště dle ZTP-JOP.
 
-![Řídící terminál](/assets/img/hJOPpanel-uh.png)
-*Terminál stanice Uhřice u Kyjova.*
+![Panel stanice](/assets/img/hJOPpanel-uh.png)
+*Panel stanice Uhřice u Kyjova.*
 
 hJOP je momentálně nasazena na modulových kolejištích [Klubu modelářů železnic
-Brno I](http://kmz-brno.cz/), kde umožňuje provoz na výstavách a zároveň slouží
+Brno I](http://kmz-brno.cz/), kde umožňuje [provoz na výstavách](provoz) a zároveň slouží
 jako bázový software pro výuku řízení kolejových vozidel v [Laboratoři řízení
 kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/).
 
-hJOP umožňuje plně konfigurovat layout kolejiště, vytvoření reliéfů pro řízení
-konkrétního kolejiště je v podstatě otázka *kreslení v malování* a znalostí
-technologie zabezpečovacích zařízení skutečné železnice.
+hJOP umožňuje vytvořit libovolný layout kolejiště, vytvoření reliéfů je otázka
+*nakreslení reliéfu* a znalostí technologie zabezpečovacích zařízení skutečné
+železnice.
 
 hJOP je vyvíjena jako opensource projekt pod Apache License v2.0. Kdokoliv si
-může stáhnout zdrojové kódy či spustitelné soubory na
-[githubu](https://github.com/kmzbrnoI/).
+může stáhnout [zdrojové kódy](https://github.com/kmzbrnoI/) či [spustitelné
+soubory](vyzkouset).
+
+<div style="text-align:center;">
+<a class="btn" style="width:250px;" href="vyzkouset">Chci si vyzkoušet hJOP</a>
+</div>
 
 ## Základní vlastnosti
 
@@ -57,3 +61,7 @@ může stáhnout zdrojové kódy či spustitelné soubory na
 
  * Možnost řídit příslušenství DCC centrálou pomocí sběrnice RS či S88.
 
+<div style="text-align:center;">
+<a class="btn" style="width:200px; margin-right: 20px;" href="struct">Chci vědět více</a>
+<a class="btn" style="width:200px;" href="contact">Kdo za tím stojí</a>
+</div>

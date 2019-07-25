@@ -5,8 +5,8 @@ permalink: /vyzkouset
 order: 3
 ---
 
-hJOP si můžete vyzkoušet stažením a spuštěním binárních souborů jednotlivých
-aplikací z githubu, například:
+hJOP si můžete vyzkoušet stažením a spuštěním spustitelných souborů jednotlivých
+aplikací:
 
  * [hJOPeditor](https://github.com/kmzbrnoI/hJOPeditor/releases),
  * [hJOPserver](https://github.com/kmzbrnoI/hJOPserver/releases),
@@ -14,8 +14,8 @@ aplikací z githubu, například:
  * [hJOPpanel](https://github.com/kmzbrnoI/hJOPpanel/releases).
 
 Další aplikace (Jerry, uLI-daemon, ...) jsou k dispozici u jednotlivých
-projektů na [githubu](https://github.com/kmzbrnoI) vždy pod záložkou
-*Releases*.
+projektů na serveru [GitHub](https://github.com/kmzbrnoI) (vždy pod záložkou
+*Releases* v repozitáři projektu).
 
 Chcete-li si kreslit vlastní panely, mohou se vám pro inspiraci hodit [panely
 stanic Klubu modelářů železnic Brno I](https://github.com/kmzbrnoI/hJOPpanely).
@@ -32,5 +32,5 @@ frameborder="0" allowfullscreen></iframe>
 
 Video tutoriál je k dispozici v plném rozlišení na
 [ulož.to](https://uloz.to/!TWc2NvWaNWW4/hjopeditor-tutorial-mp4).
-Pro rychlé stahování z ulož.to zdarma lze využít například nástroj
+Pro rychlé stahování z ulož.to zdarma lze využít například program
 [Vžum](http://vzum.8u.cz/).
