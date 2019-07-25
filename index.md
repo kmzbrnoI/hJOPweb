@@ -59,7 +59,8 @@ soubory](vyzkouset).
 
 ## Rozpracováno
 
- * Možnost řídit příslušenství DCC centrálou pomocí sběrnice RS či S88.
+ * Možnost řídit příslušenství DCC centrálou pomocí sběrnice RS či S88
+   (*plánováno implementovat do konce roku 2019*).
 
 <div style="text-align:center;">
 <a class="btn" style="width:200px; margin-right: 20px;" href="struct">Chci vědět více</a>
