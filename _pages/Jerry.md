@@ -13,7 +13,8 @@ umožňuje řízení jízdy hnacích vozidel.
 Jerry lze otevřít přímo z hJOPpanelu, nebo -- pokud dispečer není zároveň
 strojvedoucí -- lze Jerryho spustit na úplně jiném počítači.
 
-Viz [projekt na githubu](https://github.com/kmzbrnoI/Jerry).
+<a class="btn" href="https://github.com/kmzbrnoI/Jerry/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/Jerry">Zdrojové kódy</a>
 
 ## Funkce
 

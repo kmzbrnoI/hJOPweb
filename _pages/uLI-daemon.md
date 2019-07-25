@@ -31,3 +31,5 @@ slotu lze buď přímo z ovladače nebo z okna programu.
 Viz [projekt na githubu](https://github.com/kmzbrnoI/uLI-daemon), kde jsou
 k dispozici zdrojové kódy, binární soubory a dokumentace.
 
+<a class="btn" href="https://github.com/kmzbrnoI/uLI-daemon/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/uLI-daemon">Zdrojové kódy</a>

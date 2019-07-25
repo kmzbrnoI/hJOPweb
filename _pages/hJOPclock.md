@@ -11,5 +11,5 @@ k projektoru a zobrazovat tak velké modelové hodiny.
 
 ![hJOPclockl](/assets/img/hJOPclock.png)
 
-Aplikace je k dispozici opensource na
-[githubu](https://github.com/kmzbrnoI/hJOPclock).
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPclock/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPclock">Zdrojové kódy</a>

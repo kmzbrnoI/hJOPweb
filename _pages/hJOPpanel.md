@@ -15,8 +15,8 @@ jako první argument při spouštění zadáme cestu ke konfiguračnímu `ini` s
 příslušného panelu. Různé panely budou mít různé konfigurační soubory, ale
 binární soubor bude pouze jeden.
 
-Viz [projekt na githubu](https://github.com/kmzbrnoI/hJOPpanel). V *Releases*
-jsou k dispozici spustitelné soubory ke stažení.
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPpanel/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPpanel">Zdrojové kódy</a>
 
 ![hJOPpanel](/assets/img/hJOPpanel-kr-sm1.png)
 *Panel s postavenými vlakovými cestami a zobrazenými popisky bloků.*

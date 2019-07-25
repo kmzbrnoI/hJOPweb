@@ -11,7 +11,8 @@ a vygeneruje `spnl` soubor, který obsahuje matadata pro server.
 
 `spln` soubor se předhodí serveru.
 
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPmerger/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPmerger">Zdrojové kódy</a>
+
 ![hJOPmerger](/assets/img/hJOPmerger.png)
 *hJOPmerger.*
-
-Viz [projekt na githubu](https://github.com/kmzbrnoI/hJOPmerger).

@@ -10,7 +10,10 @@ projekt kolejiště, ale vždy jen jeden reliéf. Před započatím samotné edi
 je nutné v hJOPserveru vytvořit technologické bloky. V editoru se pak jen
 technologické bloky přiřadí konkrétním grafickým blokům v reliéfu.
 
-Editace reliéfu probíhá v několika fázích:
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPeditor/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPeditor">Zdrojové kódy</a>
+
+Editace reliéfu probíhá ve dvou fázích:
 
 ## Bitmapa
 

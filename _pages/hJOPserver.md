@@ -11,6 +11,9 @@ a řídit jej. Umožňuje připojení [obslužných pracovišť](/hJOPpanel) sk
 počítačovou síť a komunikaci jednoduchým
 [protokolem](https://github.com/kmzbrnoI/hJOPserver/wiki/panelServer).
 
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPserver/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPserver">Zdrojové kódy</a>
+
 hJOPserver udržuje databázi bloků, závěrovou tabulku, databázi hnacích vozidel,
 souprav, stanic, zesilovačů a uživatelů.
 
