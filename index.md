@@ -46,7 +46,7 @@ soubory](vyzkouset).
  * Uživatelské účty, autentizace dispečerů.
  * Automatické spouštění zvuků (houkání před pískáčky, trubka vlakvedoucího
    v zastávce).
- * Poloautomatické staniční hlášení.
+ * [Poloautomatické staniční hlášení](https://www.kmz-brno.cz/stanicni-hlaseni/).
  * Možnost zadat na jednu staniční kolej více souprav.
 
 ## Požadavky
