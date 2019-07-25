@@ -55,6 +55,11 @@ plugins:
 str_recent_posts: Aktuality
 
 #
+# Recent posts.
+#
+recent_posts_num: 10
+
+#
 # Styles: see "_sass/base/_variables.scss"
 #
 
