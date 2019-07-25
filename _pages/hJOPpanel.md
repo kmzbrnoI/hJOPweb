@@ -19,7 +19,7 @@ Viz [projekt na githubu](https://github.com/kmzbrnoI/hJOPpanel). V *Releases*
 jsou k dispozici spustitelné soubory ke stažení.
 
 ![hJOPpanel](/assets/img/hJOPpanel-kr-sm1.png)
-*Panel s postavenými vlakovými cestami.*
+*Panel s postavenými vlakovými cestami a zobrazenými popisky bloků.*
 
 ![hJOPpanel](/assets/img/hJOPpanel-dcc.png)
 *Panel s indikující výpadek DCC signálu.*
