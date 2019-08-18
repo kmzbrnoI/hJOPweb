@@ -63,6 +63,6 @@ soubory](vyzkouset).
    (*plánováno implementovat do konce roku 2019*).
 
 <div style="text-align:center;">
-<a class="btn" style="width:200px; margin-right: 20px;" href="struct">Chci vědět více</a>
-<a class="btn" style="width:200px;" href="contact">Kdo za tím stojí</a>
+<a class="btn" style="width:200px; margin: 10px;" href="struct">Chci vědět více</a>
+<a class="btn" style="width:200px; margin: 10px;" href="contact">Kdo za tím stojí</a>
 </div>
