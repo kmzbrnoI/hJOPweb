@@ -101,6 +101,7 @@
                     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></li>
                     {% endfor %}
                 </ul>
+                <a href="{{ '/archive' | prepend: site.baseurl }}">{{ site.str_all_posts }}</a>
             </div>
         </div>
     </aside>

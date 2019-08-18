@@ -53,6 +53,7 @@ plugins:
 # Localizations.
 #
 str_recent_posts: Aktuality
+str_all_posts: Všechny aktuality
 
 #
 # Recent posts.
