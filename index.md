@@ -51,16 +51,13 @@ soubory](vyzkouset).
 
 ## Požadavky
 
- * Příslušenství řízené pomocí [MTB-BUS](http://mtb.kmz-brno.cz/).
+ * Příslušenství řízené pomocí [MTB-BUS](http://mtb.kmz-brno.cz/) nebo XpressNET
+   – RS, S88 (*novinka srpen 2019*).
+   - [Řízení příslušenství přes XpressNET](/rcs) je dostupné v alfa verzi.
  * Jízda řízená DCC centrálou s rozhraním XpressNET. LI pro připojení k počítači.
  * Kolejiště rozdělené na kolejové obvody jako na skutečné železnici, hlídání
    poloh řízených výhybek.
  * Kalibrovaná hnací vozidla ([Co to znamená?](http://www.kmz-brno.cz/rychlostni-tabulky-pro-provoz-vozidel-na-klubovnich-kolejistich/)).
-
-## Rozpracováno
-
- * Možnost řídit příslušenství DCC centrálou pomocí sběrnice RS či S88
-   (*plánováno implementovat do konce roku 2019*).
 
 <div style="text-align:center;">
 <a class="btn" style="width:200px; margin: 10px;" href="struct">Chci vědět více</a>
