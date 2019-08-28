@@ -45,9 +45,9 @@ připojení ke sběrnici XpressNET, skrze kterou lze řídit kolejiště a zís
 informace z něj. Pro připojení ke kolejišti je nutné využít dvě LI -- jedno
 se připojuje přímo k hJOPserveru a druhé k této knihovně.
 
-Knihovna zatím není hotová, momentálně je ve vývoji, plánované dokončení je
-do konce roku 2019.
+Knihovna je v alfa verzi – je dostupná k veřejnému testování.
 
+<a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/releases">Stáhnout</a>
 <a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt">Zdrojové kódy</a>
 
 ## RCS – Railroad Control System Interface
