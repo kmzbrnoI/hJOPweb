@@ -11,10 +11,6 @@ knihovny, které lze použít spolu s hJOPserverem.
 
 Knihovny jsou dodávány jako dll soubory.
 
-V současné době probíhají práce na vývoji knihovny pro XpressNET, která umožní
-řízení příslušenství přes XpressNET -- za využití sběrnic RS nebo S88
-(*plánováno implementovat do konce roku 2019*).
-
 ## MTB knihovna
 
 MTB knihovna umožňuje komunikaci s [moduly MTB](https://mtb.kmz-brno.cz/).
@@ -43,9 +39,15 @@ MTB simulovat bez kolejiště.
 [XpressNET knihovna](https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt) umožňuje
 připojení ke sběrnici XpressNET, skrze kterou lze řídit kolejiště a získávat
 informace z něj. Pro připojení ke kolejišti je nutné využít dvě LI -- jedno
-se připojuje přímo k hJOPserveru a druhé k této knihovně.
+se připojuje přímo k hJOPserveru (pro řízení jízdy) a druhé k této knihovně
+(pro řízení příslušenství). Je možné použít buď dvě centrály – každou se svým LI
+ – nebo jednu centrálu s dvěma LI.
 
-Knihovna je v alfa verzi – je dostupná k veřejnému testování. Probíhá testování
+Knihovna používá dekodéry příslušenství jako vstupy i výstupy. hJOP se
+konfiguruje tak, že adresa modulu je adresa vstupu/výstupu (0–1023 resp.
+1–1024) a adresa portu je poloha výhybky (0/1).
+
+Knihovna je v beta verzi – je dostupná k veřejnému testování. Probíhá testování
 a ladění knihovny na různých modulech a centrálách. Budeme rádi za otestování
 a [nahlášení chyb](https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/issues).
 
