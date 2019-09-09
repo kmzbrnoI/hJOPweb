@@ -54,6 +54,16 @@ a [nahlášení chyb](https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/issues).
 <a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/releases">Stáhnout</a>
 <a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt">Zdrojové kódy</a>
 
+Základy používání knihovny vás naučí videotutoriál:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fc1rxGQ2T14"
+frameborder="0" allowfullscreen></iframe>
+
+Video tutoriál je k dispozici v plném rozlišení na
+[ulož.to](https://uloz.to/file/oYzXAbFBywus/hjop-xn-acc-mp4).
+Pro rychlé stahování z ulož.to zdarma lze využít například program
+[Vžum](http://vzum.8u.cz/).
+
 ---
 
 ## RCS – Railroad Control System Interface
