@@ -64,6 +64,9 @@ Video tutoriál je k dispozici v plném rozlišení na
 Pro rychlé stahování z ulož.to zdarma lze využít například program
 [Vžum](http://vzum.8u.cz/).
 
+Můžete si stáhnout soubory, které jsou ve videu používány:
+[stanice Ivančice s řízením příslušenství přes XpressNET](/download/hJOP-try-xn-2019-09.zip).
+
 ---
 
 ## RCS – Railroad Control System Interface
