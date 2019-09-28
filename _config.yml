@@ -58,7 +58,7 @@ str_all_posts: Všechny aktuality
 #
 # Recent posts.
 #
-recent_posts_num: 10
+recent_posts_num: 5
 
 #
 # Styles: see "_sass/base/_variables.scss"
