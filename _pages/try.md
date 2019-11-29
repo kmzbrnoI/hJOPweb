@@ -17,14 +17,19 @@ Další aplikace (Jerry, uLI-daemon, ...) jsou k dispozici u jednotlivých
 projektů na serveru [GitHub](https://github.com/kmzbrnoI) (vždy pod záložkou
 *Releases* v repozitáři projektu).
 
-Chcete-li si kreslit vlastní panely, mohou se vám pro inspiraci hodit [panely
-stanic Klubu modelářů železnic Brno I](https://github.com/kmzbrnoI/hJOPpanely).
+## Chci si vyzkoušet ovládání
 
-Chcete-li si vyzkoušet před připravený layout, můžete si stáhnout [jedno
-z dem](/download/):
+Můžete si stáhnout [jedno z dem](/download/), ve kterém jsou k dispozici již
+hotové reliéfy, takže software můžete ovládat třeba jako Staničáře.
 
  * [Modulovka TT KMŽ Brno I k 10. 3. 2017](/download/hJOP-try-tt-2017-03-10.zip).
  * [Stanice Ivančice s řízením příslušenství přes XpressNET](/download/hJOP-try-xn-2019-09.zip).
+
+
+## Chci si nakreslit vlastní stanice
+
+Chcete-li si kreslit vlastní panely, mohou se vám pro inspiraci hodit [panely
+stanic Klubu modelářů železnic Brno I](https://github.com/kmzbrnoI/hJOPpanely).
 
 Základy editace reliéfů váš naučí video tutoriál:
 
@@ -35,3 +40,22 @@ Video tutoriál je k dispozici v plném rozlišení na
 [ulož.to](https://uloz.to/!TWc2NvWaNWW4/hjopeditor-tutorial-mp4).
 Pro rychlé stahování z ulož.to zdarma lze využít například program
 [Vžum](http://vzum.8u.cz/).
+
+### Stručný postup pro kreslení vlastního kolejiště
+
+1. V editoru nakreslete reliéfy stanic ve formátu `bpnl` (_bitmapový režim_).
+2. Na serveru vytvořte zesilovače a technologické bloky.
+3. Načtěte definice bloků serveru do editoru. Přepněte editaci reliéfu do
+   režimu _bloků_.
+4. V každém panelu přiřaďte všechny grafické bloky technologickým bloků.
+5. Všechny `opnl` soubory vložte do programu `hJOPmerger`, exportujte soubor
+   bloků pro server do adresáře serveru `data/stanice.spnl`.
+6. Spusťte server, zkontrolujte načtení oblastí řízení a správné přiřazení
+   bloků oblastem řízení.
+7. Na serveru vytvořte uživatele.
+8. Spusťte server.
+9. `opnl` soubory panelů předložte programu `hJOPpanel`, zkonfigurujte
+   hJOPpanel (například přes GUI) podle svých potřeb. Měli byste vidět fialový
+   reliéf.
+10. Panel: připojte se k serveru. Bloky by měly být aktivní.
+11. Pokračujte doeditováním čehokoliv, co potřebujete.
