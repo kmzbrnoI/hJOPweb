@@ -43,9 +43,7 @@ se připojuje přímo k hJOPserveru (pro řízení jízdy) a druhé k této k
 (pro řízení příslušenství). Je možné použít buď dvě centrály – každou se svým LI
  – nebo jednu centrálu s dvěma LI.
 
-Knihovna používá dekodéry příslušenství jako vstupy i výstupy. hJOP se
-konfiguruje tak, že adresa modulu je adresa vstupu/výstupu (0–1023 resp.
-1–1024) a adresa portu je poloha výhybky (0/1).
+Knihovna používá dekodéry příslušenství jako vstupy i výstupy.
 
 Knihovna je v beta verzi – je dostupná k veřejnému testování. Probíhá testování
 a ladění knihovny na různých modulech a centrálách. Budeme rádi za otestování
@@ -53,19 +51,7 @@ a [nahlášení chyb](https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/issues).
 
 <a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/releases">Stáhnout</a>
 <a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt">Zdrojové kódy</a>
-
-Základy používání knihovny vás naučí videotutoriál:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fc1rxGQ2T14"
-frameborder="0" allowfullscreen></iframe>
-
-Video tutoriál je k dispozici v plném rozlišení na
-[ulož.to](https://uloz.to/file/oYzXAbFBywus/hjop-xn-acc-mp4).
-Pro rychlé stahování z ulož.to zdarma lze využít například program
-[Vžum](http://vzum.8u.cz/).
-
-Můžete si stáhnout soubory, které jsou ve videu používány:
-[stanice Ivančice s řízením příslušenství přes XpressNET](/download/hJOP-try-xn-2019-09.zip).
+<a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/wiki">Návod</a>
 
 ---
 
