@@ -22,6 +22,7 @@ projektů na serveru [GitHub](https://github.com/kmzbrnoI) (vždy pod záložkou
 Můžete si stáhnout [jedno z dem](/download/), ve kterém jsou k dispozici již
 hotové reliéfy, takže software můžete ovládat třeba jako Staničáře.
 
+ * [Modulovka TT KMŽ Brno I k 6. 2. 2020](/download/hJOP-try-tt-2020-02-06.zip).
  * [Modulovka TT KMŽ Brno I k 10. 3. 2017](/download/hJOP-try-tt-2017-03-10.zip).
 
 
