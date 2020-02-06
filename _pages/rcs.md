@@ -9,7 +9,8 @@ hJOP umožňuje řídit příslušenství několika různými systémy. Všechny
 pod obecné jméno „RCS -- Railroad Control System“. Níže jsou některé konkrétní
 knihovny, které lze použít spolu s hJOPserverem.
 
-Knihovny jsou dodávány jako dll soubory.
+hJOPserver od verze 5 je distribuován včetně těchto knihoven, takže knihovny
+není nutné samostatně stahovat. Knihovny jsou dodávány jako dll soubory.
 
 ## MTB knihovna
 
