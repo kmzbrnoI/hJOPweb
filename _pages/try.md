@@ -23,7 +23,6 @@ Můžete si stáhnout [jedno z dem](/download/), ve kterém jsou k dispozici ji
 hotové reliéfy, takže software můžete ovládat třeba jako Staničáře.
 
  * [Modulovka TT KMŽ Brno I k 10. 3. 2017](/download/hJOP-try-tt-2017-03-10.zip).
- * [Stanice Ivančice s řízením příslušenství přes XpressNET](/download/hJOP-try-xn-2019-09.zip).
 
 
 ## Chci si nakreslit vlastní stanice
