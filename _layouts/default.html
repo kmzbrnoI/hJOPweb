@@ -99,6 +99,7 @@
             </ul>
             <hr class="with-no-margin margin-bottom"/>
 
+            {% if page.lang == 'cz' %}
             <div class="block sticky">
                 <h2>{{ site.t[page.lang]['str_recent_posts'] }}</h2>
                 <ul>
@@ -115,6 +116,7 @@
                 </ul>
                 <a href="{{ '/archive' | prepend: site.baseurl }}">{{ site.t[page.lang]['str_all_posts'] }}</a>
             </div>
+            {% endif %}
         </div>
     </aside>
 </div>
