@@ -3,12 +3,9 @@
 #
 url: http://hjop.kmz-brno.cz
 title: hJOP
-description: Komplexní řešení řízení modelového kolejiště dle ZTP-JOP
 avatar: /assets/img/hJOP.svg
 favicon: /assets/img/hJOP.ico
-language: cs
 author: Jan Horáček
-keywords: hJOP,JOP,vláček,model,sw,program
 robots: index,follow
 
 #
@@ -88,3 +85,13 @@ exclude:
   - README.md
   - vendor
   - Makefile
+
+t:
+  en:
+    description: "A Model Railroad Control Software based on ZTP-JOP"
+    keywords: speed,meter,measure,model,train,tt,wireless,speedometer
+    footer: "<a href='https://github.com/kmzbrnoI/wsm-web'>This page</a> was created by <a href='http://apophis.cz/'>Jan Horáček</a> using <a href='http://jekyllrb.com'>Jekyll</a> with style <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
+  cz:
+    description: "Komplexní řešení řízení modelového kolejiště dle ZTP-JOP"
+    keywords: hJOP,JOP,vláček,model,sw,program
+    footer: "<a href='https://github.com/kmzbrnoI/wsm-web'>Tuto stránku</a> vytvořil <a href='http://apophis.cz/'>Jan Horáček</a> za použití nástroje <a href='http://jekyllrb.com'>Jekyll</a> a stylu <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."

@@ -3,6 +3,7 @@ layout: page
 title: Kontakt
 permalink: /contact
 order: 100
+lang: cz
 ---
 
 Projekt hJOP vytvořil a vytváří [Jan Horáček](http://apophis.cz/), aktivní člen

@@ -3,6 +3,7 @@ layout: page
 title: Chci si vyzkoušet hJOP
 permalink: /vyzkouset
 order: 3
+lang: cz
 ---
 
 hJOP si můžete vyzkoušet stažením a spuštěním spustitelných souborů jednotlivých

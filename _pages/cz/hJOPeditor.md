@@ -3,6 +3,7 @@ layout: page
 title: hJOPeditor
 permalink: /hJOPeditor
 order: 11
+lang: cz
 ---
 
 hJOPeditor je software sloužící k editaci reliéfů. Editor needituje celý

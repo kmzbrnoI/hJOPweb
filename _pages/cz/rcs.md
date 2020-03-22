@@ -3,6 +3,7 @@ layout: page
 title: Systém RCS
 permalink: /rcs
 order: 40
+lang: cz
 ---
 
 hJOP umožňuje řídit příslušenství několika různými systémy. Všechny sdružuje

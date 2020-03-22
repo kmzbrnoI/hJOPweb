@@ -3,6 +3,7 @@ layout: page
 title: Jerry
 permalink: /Jerry
 order: 20
+lang: cz
 ---
 
 Jerry je jednoduchá klientská aplikace, která se připojuje k hJOPserveru a která

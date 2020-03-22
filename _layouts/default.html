@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.language }}">
+<html lang="{{ page.lang }}">
 <head>
     {% capture title %}{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}{% endcapture %}
 
@@ -8,7 +8,7 @@
     {% if page.excerpt %}
     {% assign description = page.excerpt | strip_html | strip_newlines | truncate: 160 %}
     {% else %}
-    {% assign description = site.description %}
+    {% assign description = site.t[page.lang]["description"] %}
     {% endif %}
 
     <meta charset="utf-8">
@@ -39,7 +39,7 @@
     {% endif %}
 
     <meta name="author" content="{{ site.author }}">
-    <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="keywords" content="{{ site.t[page.lang]['keywords'] }}">
     <meta name="robots" content="{{ site.robots }}">
 
     <meta property="og:title" content="{{ title }}" />
@@ -71,7 +71,7 @@
         {% endif %}
         <h1 class="clearfix">
             <a class="title {% if site.avatar == null %}slim{% endif %}" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a>
-            <br><span class="description">{{ site.description }}</span>
+            <br><span class="description">{{ description }}</span>
         </h1>
     </div>
 </header>
@@ -83,8 +83,11 @@
 
     <aside class="site-aside">
         <div class="inner">
+            <ul class="languages">
+                {% include languages.html %}
+            </ul>
             <ul style="margin-top:0px;">
-                {% assign pages = site.pages | sort: 'order' %}
+                {% assign pages = site.pages | where:"lang", page.lang | sort: 'order' %}
                 {% for page in pages %}
                 {% if page.title and page.hide != true %}
                 <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
@@ -118,7 +121,7 @@
 
 <footer class="site-footer">
     <div class="inner">
-        <span><a href="https://github.com/kmzbrnoI/hJOP-web">Stránky</a> vytvořil <a href="http://apophis.cz/">Jan Horáček</a> skrze <a href="http://jekyllrb.com">Jekyll</a> se stylem <a href="https://github.com/ttskch/jekyll-ttskch-theme">TtskchTheme</a>.</span>
+        <span>{{ site.t[page.lang]['footer'] }}</span>
     </div>
 </footer>
 

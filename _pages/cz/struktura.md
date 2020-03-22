@@ -3,6 +3,7 @@ layout: page
 title: Struktura projektu
 permalink: /struct
 order: 2
+lang: cz
 ---
 
 Softwarový balík hJOP je složen z několika základních programů a několika

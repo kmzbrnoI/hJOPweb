@@ -3,6 +3,7 @@ layout: page
 title: hJOPclock
 permalink: /hJOPclock
 order: 33
+lang: cz
 ---
 
 hJOPclock je jednoduchá desktopová aplikace, která zobrazuje modelový čas

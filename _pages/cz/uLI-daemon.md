@@ -3,6 +3,7 @@ layout: page
 title: uLI-daemon
 permalink: /uLI-daemon
 order: 31
+lang: cz
 ---
 
 uLI-daemon je démon umožňující funkci [uLI-master](/uLI-master).

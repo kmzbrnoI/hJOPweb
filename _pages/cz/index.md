@@ -1,6 +1,8 @@
 ---
 layout: page
 title: O projektu
+permalink: /index
+lang: cz
 ---
 
 hJOP je softwarový balík umožňující řídit modelové kolejiště dle ZTP-JOP.

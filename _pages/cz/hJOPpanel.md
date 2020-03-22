@@ -3,6 +3,7 @@ layout: page
 title: hJOPpanel
 permalink: /hJOPpanel
 order: 13
+lang: cz
 ---
 
 hJOPpanel je terminál zobrazující reliéf v aktuálním stavu kolejiště.

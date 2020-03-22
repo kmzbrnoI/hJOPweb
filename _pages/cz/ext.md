@@ -3,6 +3,7 @@ layout: page
 title: Podpůrné projekty
 permalink: /ext
 order: 50
+lang: cz
 ---
 
 ## hJOPvyznamy

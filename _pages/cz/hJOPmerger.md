@@ -3,6 +3,7 @@ layout: page
 title: hJOPmerger
 permalink: /hJOPmerger
 order: 12
+lang: cz
 ---
 
 hJOPmerger je krátký prográmek, kterému se na vstup zadají všechny `opnl` soubory,

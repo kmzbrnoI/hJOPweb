@@ -3,6 +3,7 @@ layout: page
 title: hJOPserver
 permalink: /hJOPserver
 order: 10
+lang: cz
 ---
 
 hJOPserver je centrální mozek celého řízení kolejiště. Umožňuje editovat

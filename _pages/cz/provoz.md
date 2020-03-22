@@ -3,6 +3,7 @@ layout: page
 title: Z provozu
 permalink: /provoz
 order: 99
+lang: cz
 ---
 
 Několik fotografií z provozu:

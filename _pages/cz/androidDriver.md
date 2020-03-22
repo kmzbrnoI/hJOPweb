@@ -3,6 +3,7 @@ layout: page
 title: hJOP Android Driver
 permalink: /androidDriver
 order: 32
+lang: cz
 ---
 
 hJOP Android Driver je mobilní aplikace pro OS Android, která umožňuje řídit

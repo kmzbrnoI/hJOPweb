@@ -3,6 +3,7 @@ layout: page
 title: uLI-master
 permalink: /uLI-master
 order: 30
+lang: cz
 ---
 
 uLI-master je krabička rozměru 7×5 cm, která umožňuje připojení ovladačů

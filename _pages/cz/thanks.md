@@ -3,6 +3,7 @@ layout: page
 title: Poděkování
 permalink: /thanks
 order: 101
+lang: cz
 ---
 
 S vývojem hJOP pomáhali následující lidé, kterým bych tímto rád poděkoval:

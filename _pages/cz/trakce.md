@@ -3,6 +3,7 @@ layout: page
 title: Systém Trakce
 permalink: /trakce
 order: 41
+lang: cz
 ---
 
 hJOP od verze 5.0 umožňuje řídit jízdu hnacích vozidel několika různými
