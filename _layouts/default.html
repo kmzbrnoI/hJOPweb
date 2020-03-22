@@ -100,7 +100,7 @@
             <hr class="with-no-margin margin-bottom"/>
 
             <div class="block sticky">
-                <h2>{{ site.str_recent_posts }}</h2>
+                <h2>{{ site.t[page.lang]['str_recent_posts'] }}</h2>
                 <ul>
                     {% assign posts = '' | split: '' %}
                     {% for post in site.posts %}
@@ -113,7 +113,7 @@
                     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></li>
                     {% endfor %}
                 </ul>
-                <a href="{{ '/archive' | prepend: site.baseurl }}">{{ site.str_all_posts }}</a>
+                <a href="{{ '/archive' | prepend: site.baseurl }}">{{ site.t[page.lang]['str_all_posts'] }}</a>
             </div>
         </div>
     </aside>
