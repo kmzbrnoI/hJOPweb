@@ -37,6 +37,14 @@ Základy editace reliéfů váš naučí video tutoriál:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4P8mZKATbmc"
 frameborder="0" allowfullscreen></iframe>
 
+---
+
+Pozor: od hJOPserveru v5 se nestahují `dll` knihovny (`simulator.dll`)
+samostatně, ale hJOPserver se stahuje jako `zip` soubor, který tyto knihovny již
+obsahuje.
+
+---
+
 Video tutoriál je k dispozici v plném rozlišení na
 [ulož.to](https://uloz.to/!TWc2NvWaNWW4/hjopeditor-tutorial-mp4).
 Pro rychlé stahování z ulož.to zdarma lze využít například program
