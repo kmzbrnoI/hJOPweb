@@ -4,12 +4,7 @@
     {% capture title %}{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}{% endcapture %}
 
     {% include page-url-resolver.html page=page %}
-
-    {% if page.excerpt %}
-    {% assign description = page.excerpt | strip_html | strip_newlines | truncate: 160 %}
-    {% else %}
     {% assign description = site.t[page.lang]["description"] %}
-    {% endif %}
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
