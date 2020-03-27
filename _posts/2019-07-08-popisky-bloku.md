@@ -2,6 +2,7 @@
 layout: post
 title: Skrývatelné popisky bloků
 tags: upgrade
+lang: cz
 ---
 
 Byla vydána nová verze všech programů hJOP. Nově je možné editovat
