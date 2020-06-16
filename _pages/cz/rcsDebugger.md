@@ -17,7 +17,7 @@ serveru [GitHub](https://github.com/kmzbrnoI/hJOPrcsDebugger). Aplikace je
 ke stažení dostupná v [Google
 Play](https://play.google.com/store/apps/details?id=kmzbrnoI.hjoprcsdebugger).
 
-<a href='https://play.google.com/store/apps/details?id=kmzbrnoI/hjoprcsdebugger'>
+<a href='https://play.google.com/store/apps/details?id=kmzbrnoI.hjoprcsdebugger'>
 <img class="no-link" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/>
 </a>
 
