@@ -7,8 +7,8 @@ lang: cz
 
 hJOP je softwarový balík umožňující řídit modelové kolejiště dle ZTP-JOP.
 
-![Panel stanice](/assets/img/hJOPpanel-uh.png)
-*Panel stanice Uhřice u Kyjova.*
+![Panel stanice](/assets/img/hJOPpanel-le-sy.png)
+*Panel stanic Lesná a Skály.*
 
 hJOP je momentálně nasazena na modulových kolejištích [Klubu modelářů železnic
 Brno I](http://kmz-brno.cz/), kde umožňuje [provoz na výstavách](provoz) a zároveň slouží

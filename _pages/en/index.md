@@ -9,8 +9,8 @@ hJOP is a software package allowing dispatchers to control a model railway via
 interface based on ZTP-JOP. ZTP-JOP is a GUI specification for real
 computer-controlled railway systems heavily used in the Czech Republic.
 
-![Station control panel](/assets/img/hJOPpanel-uh.png)
-*hJOP control panel of a station Uhřice u Kyjova.*
+![Station control panel](/assets/img/hJOPpanel-le-sy.png)
+*hJOP control panel of stations Lesná and Skály.*
 
 hJOP is nowadays deployed on multiple model railways in [Model Railroader Club
 Brno I](http://kmz-brno.cz/) (pages available in czech only). hJOP is used
