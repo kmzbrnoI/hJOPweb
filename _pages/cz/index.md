@@ -35,7 +35,7 @@ kolejiště.
 <a class="btn" style="width:250px;" href="vyzkouset">Chci si vyzkoušet hJOP</a>
 </div>
 
-## Základní vlastnosti
+## Základní vlastnosti {#basicProperties}
 
  * Grafické rozhraní na bázi jednotného obslužného pracoviště (JOP).
  * Platforma OS Windows.
@@ -59,7 +59,7 @@ kolejiště.
  * [Poloautomatické staniční hlášení](https://www.kmz-brno.cz/stanicni-hlaseni/).
  * Možnost zadat na jednu staniční kolej více souprav.
 
-## Požadavky
+## Požadavky {#requirements}
 
  * Příslušenství řízené pomocí [MTB-BUS](http://mtb.kmz-brno.cz/) nebo XpressNET
    – RS, S88.

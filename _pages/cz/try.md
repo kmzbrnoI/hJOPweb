@@ -14,8 +14,7 @@ aplikací:
  * [hJOPmerger](https://github.com/kmzbrnoI/hJOPmerger/releases),
  * [hJOPpanel](https://github.com/kmzbrnoI/hJOPpanel/releases).
 
-Další aplikace (Jerry, uLI-daemon, ...) jsou k dispozici ze v menu vpravo.
-
+Další aplikace (Jerry, uLI-daemon, ...) jsou k dispozici v menu vpravo.
 hJOP je otevřený software, vždy stahujete jeho plnou verzi bez jakýchkoliv
 omezení.
 
@@ -29,44 +28,6 @@ hotové reliéfy, takže software můžete ovládat třeba jako Staničáře.
  * [Modulovka TT KMŽ Brno I k 10. 3. 2017](/download/hJOP-try-tt-2017-03-10.zip).
 
 
-## Chci si nakreslit vlastní stanice
+## Chci řídit své kolejiště pomocí hJOP
 
-Chcete-li si kreslit vlastní panely, mohou se vám pro inspiraci hodit [panely
-stanic Klubu modelářů železnic Brno I](https://github.com/kmzbrnoI/hJOPpanely).
-
-Základy editace reliéfů váš naučí video tutoriál:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4P8mZKATbmc"
-frameborder="0" allowfullscreen></iframe>
-
----
-
-Pozor: od hJOPserveru v5 se nestahují `dll` knihovny (`simulator.dll`)
-samostatně, ale hJOPserver se stahuje jako `zip` soubor, který tyto knihovny již
-obsahuje.
-
----
-
-Video tutoriál je k dispozici v plném rozlišení na
-[ulož.to](https://uloz.to/!TWc2NvWaNWW4/hjopeditor-tutorial-mp4).
-Pro rychlé stahování z ulož.to zdarma lze využít například program
-[Vžum](http://vzum.8u.cz/).
-
-### Stručný postup pro kreslení vlastního kolejiště
-
-1. V editoru nakreslete reliéfy stanic ve formátu `bpnl` (_bitmapový režim_).
-2. Na serveru vytvořte zesilovače a technologické bloky.
-3. Načtěte definice bloků serveru do editoru. Přepněte editaci reliéfu do
-   režimu _bloků_.
-4. V každém panelu přiřaďte všechny grafické bloky technologickým bloků.
-5. Všechny `opnl` soubory vložte do programu `hJOPmerger`, exportujte soubor
-   bloků pro server do adresáře serveru `data/stanice.spnl`.
-6. Spusťte server, zkontrolujte načtení oblastí řízení a správné přiřazení
-   bloků oblastem řízení.
-7. Na serveru vytvořte uživatele.
-8. Spusťte server.
-9. `opnl` soubory panelů předložte programu `hJOPpanel`, zkonfigurujte
-   hJOPpanel (například přes GUI) podle svých potřeb. Měli byste vidět fialový
-   reliéf.
-10. Panel: připojte se k serveru. Bloky by měly být aktivní.
-11. Pokračujte doeditováním čehokoliv, co potřebujete.
+Projděte si stránku [Chci nasadit hJOP](/navod).
