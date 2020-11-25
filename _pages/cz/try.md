@@ -14,9 +14,10 @@ aplikací:
  * [hJOPmerger](https://github.com/kmzbrnoI/hJOPmerger/releases),
  * [hJOPpanel](https://github.com/kmzbrnoI/hJOPpanel/releases).
 
-Další aplikace (Jerry, uLI-daemon, ...) jsou k dispozici u jednotlivých
-projektů na serveru [GitHub](https://github.com/kmzbrnoI) (vždy pod záložkou
-*Releases* v repozitáři projektu).
+Další aplikace (Jerry, uLI-daemon, ...) jsou k dispozici ze v menu vpravo.
+
+hJOP je otevřený software, vždy stahujete jeho plnou verzi bez jakýchkoliv
+omezení.
 
 ## Chci si vyzkoušet ovládání
 
