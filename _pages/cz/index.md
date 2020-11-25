@@ -14,7 +14,7 @@ hJOP je vyvíjena [Klubem modelářů železnic Brno I](http://kmz-brno.cz/), kd
 nasazena na modulových i pevných kolejištích. Je to hlavní software, kterým se
 řídí provoz na kolejištích. hJOP je nasazena také v [Laboratoři řízení
 kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/), která spolupracuje na
-jeho vývoji a testování.
+jeho vývoji a testování.
 
 hJOP umožňuje vytvořit libovolný layout kolejiště, vytvoření reliéfů je otázka
 *nakreslení reliéfu* a znalostí technologie zabezpečovacích zařízení skutečné
@@ -24,6 +24,12 @@ hJOP je vyvíjena jako *opensource projekt* pod *Apache License v2.0*. Kdokoliv 
 může stáhnout [zdrojové kódy](https://github.com/kmzbrnoI/) či [spustitelné
 soubory](vyzkouset). hJOP nemá žádné licence, všechen software je v plné
 verzi zdarma.
+
+Cílem hJOP je nabídnout bezpečné a pohodlné řízení modelového kolejiště podobné
+řízení skutečné české železnice. A to primárně ve výše zmíněném klubu,
+sekundárně i kdekoliv jinde. To se odráží například v tom, že hJOP podporuje
+i běžně dostupný komerční hardware. Je tedy možné ji nasadit i na domácí
+kolejiště.
 
 <div style="text-align:center;">
 <a class="btn" style="width:250px;" href="vyzkouset">Chci si vyzkoušet hJOP</a>
@@ -56,12 +62,12 @@ verzi zdarma.
 ## Požadavky
 
  * Příslušenství řízené pomocí [MTB-BUS](http://mtb.kmz-brno.cz/) nebo XpressNET
-   – RS, S88 (*novinka srpen 2019*).
+   – RS, S88.
    - [Řízení příslušenství přes XpressNET](/rcs) je dostupné v beta verzi.
  * Jízda řízená DCC centrálou s rozhraním XpressNET. LI pro připojení k počítači.
- * Kolejiště rozdělené na kolejové obvody jako na skutečné železnici, hlídání
-   poloh řízených výhybek.
+ * Kolejiště rozdělené na kolejové obvody jako na skutečné železnici.
  * Kalibrovaná hnací vozidla ([Co to znamená?](http://www.kmz-brno.cz/rychlostni-tabulky-pro-provoz-vozidel-na-klubovnich-kolejistich/)).
+ * Je doporučeno snímat polohy řízených výhybek, ale není to nutné.
 
 <div style="text-align:center;">
 <a class="btn" style="width:200px; margin: 10px;" href="struct">Chci vědět více</a>
