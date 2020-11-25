@@ -27,19 +27,19 @@ umožnily editaci kolejiště na míru a -- a to především -- pohodlné ř�
    *hJOPserveru* a umožňuje získat a změnit stav kolejiště. Jedná se o terminál,
    který je běžně ovládán dispečery. V síti je obvykle spuštěno několik možných
    panelů -- například každý u konkrétní stanice --, které se připojují
-   k jednomu serveru. Na jednom počítači lze také spustit více panelů.
+   k jednomu serveru. Na jednom počítači lze spustit více panelů. Může běžet na
+   stejném počítači jako hJOPserver.
 
 
 ## Rozšiřující SW
 
- * [**Jerry**](/Jerry): jednoduchý program umožňující řídit jízdu vlaku z role
+ * [**Jerry**](/Jerry): program umožňující řídit jízdu vlaku z role
    strojvedoucího.
+ * [**Android Driver**](/androidDriver): mobilní aplikace pro Android sloužící
+   k řízení jízdy souprav.
  * [**uLI-master**](/uLI-master): hardware umožňující připojení Roco Multimaus
    k obslužným pracovištím, umožňuje řídit jízdu vlaku hardwarovým ovladačem.
  * [**uLI-daemon**](/uLI-daemon): software umožňující spřažení *uLI-master*
    se zbytkem technologie kolejiště. Je nutný pro funkci *uLI-master*.
- * [**Android Driver**](/androidDriver): mobilní aplikace pro Android sloužící
-   k řízení jízdy souprav.
  * [**hJOPclock**](/hJOPclock): desktopová aplikace umožňující zobrazit modelový
    čas (například na projektor).
-
