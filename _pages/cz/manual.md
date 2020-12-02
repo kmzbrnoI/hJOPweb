@@ -15,14 +15,15 @@ které vás provedou jednotlivými kroky nasazení hJOP.
  1. Zkontrolujte si, že máte [kompatibilní kolejiště](/#requirements).
  2. \[[návod](#panel-bitmap)\] V hJOPeditoru nakreslete reliéfy stanic
     v bitmapovém režimu, zadejte oddělovače bloků. Uložte soubory `.bpnl`.
- 3. Na serveru vytvořte zesilovače a technologické bloky.
- 4. Načtěte definice bloků serveru do editoru. Přepněte editaci reliéfu do
-    režimu _bloků_. V každém panelu přiřaďte všechny grafické bloky
-    technologickým bloků.
- 5. Všechny `opnl` soubory vložte do programu `hJOPmerger`, exportujte soubor
-    bloků pro server do souboru `data/stanice.spnl` v adresáři hJOPserveru.
- 6. Restartujte aplikaci hJOPserver, zkontrolujte načtení oblastí řízení
-    a správné přiřazení bloků oblastem řízení.
+ 3. \[[návod](#tech-bloky)\] Na serveru vytvořte zesilovače a technologické bloky.
+ 4. \[[návod](#tech-bloky)\] Načtěte definice bloků serveru do editoru.
+   Přepněte editaci reliéfu do režimu _bloků_. V každém panelu přiřaďte všechny
+   grafické bloky technologickým bloků.
+ 5. \[[návod](#tech-bloky)\] Všechny `opnl` soubory vložte do programu
+   `hJOPmerger`, exportujte soubor bloků pro server do souboru
+   `data/stanice.spnl` v adresáři hJOPserveru.
+ 6. \[[návod](#tech-bloky)\] Restartujte aplikaci hJOPserver, zkontrolujte
+   načtení oblastí řízení a správné přiřazení bloků oblastem řízení.
  7. Na serveru vytvořte alespoň jednoho uživatele.
  8. hJOPserver: proveďte _central start_ serveru v simulačním režimu.
  9. `opnl` soubory panelů otevřete v programu `hJOPpanel`, nastavte hJOPpanel
@@ -39,6 +40,14 @@ frameborder="0" allowfullscreen></iframe>
 Pro inspiraci se vám mohou hodit [panely stanic Klubu modelářů železnic Brno
 I](https://github.com/kmzbrnoI/hJOPpanely). Návod je k dispozici v plném rozlišení
 [zde](https://drive.google.com/file/d/1XiB_bdifbnzNHLh4CceLVB3WwzTYgvmd/view?usp=sharing).
+
+## 3–6: technologické bloky {#tech-bloky}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-zceBipR_-Y"
+frameborder="0" allowfullscreen></iframe>
+
+Video je k dispozici v plném rozlišení
+[zde](https://drive.google.com/file/d/1BsrkUwtsiEimDWxnaVy6WTyIaGXJkoc_/view?usp=sharing).
 
 ---
 
