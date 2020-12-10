@@ -24,13 +24,16 @@ které vás provedou jednotlivými kroky nasazení hJOP.
    `data/stanice.spnl` v adresáři hJOPserveru.
  6. \[[návod](#tech-bloky)\] Restartujte aplikaci hJOPserver, zkontrolujte
    načtení oblastí řízení a správné přiřazení bloků oblastem řízení.
- 7. Na serveru vytvořte alespoň jednoho uživatele.
- 8. hJOPserver: proveďte _central start_ serveru v simulačním režimu.
- 9. `opnl` soubory panelů otevřete v programu `hJOPpanel`, nastavte hJOPpanel
-    podle svých potřeb. Připojte se k serveru. Bloky by měly být aktivní.
+ 7. \[[návod](#first-start)\] Na serveru vytvořte alespoň jednoho uživatele.
+ 8. \[[návod](#first-start)\] hJOPserver: proveďte _central start_ serveru
+    v simulačním režimu.
+ 9. \[[návod](#first-start)\] `opnl` soubory panelů otevřete v programu
+    `hJOPpanel`, nastavte hJOPpanel podle svých potřeb. Připojte se k serveru.
+    Bloky by měly být aktivní.
 10. Připojte kolejiště k hJOPserveru.
-11. Vytvořte závěrovou tabulku, přidejte hnací vozidla. Doplňte cokoliv dalšího,
-   co potřebujete.
+11. \[[návod](#zaverova-tabulka)\] Vytvořte závěrovou tabulku
+12. \[[návod](#bezny-provoz)\] Přidejte hnací vozidla. Doplňte cokoliv
+    dalšího, co potřebujete.
 
 ## 2: kreslení panelů v bitmapovém režimu {#panel-bitmap}
 
@@ -48,6 +51,30 @@ frameborder="0" allowfullscreen></iframe>
 
 Video je k dispozici v plném rozlišení
 [zde](https://drive.google.com/file/d/1BsrkUwtsiEimDWxnaVy6WTyIaGXJkoc_/view?usp=sharing).
+
+## 7–9: první start serveru a panelu {#first-start}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ln3_IWsmhWY"
+frameborder="0" allowfullscreen></iframe>
+
+Video je k dispozici v plném rozlišení
+[zde]().
+
+## 11: závěrová tabulka {#zaverova-tabulka}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rES6NQp3M9w"
+frameborder="0" allowfullscreen></iframe>
+
+Video je k dispozici v plném rozlišení
+[zde]().
+
+## 12: hnací vozidla, ruční řízení, ukázka provozu {#bezny-provoz}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4eNhLpxLBFg"
+frameborder="0" allowfullscreen></iframe>
+
+Video je k dispozici v plném rozlišení
+[zde]().
 
 ---
 
