@@ -58,7 +58,7 @@ Video je k dispozici v plném rozlišení
 frameborder="0" allowfullscreen></iframe>
 
 Video je k dispozici v plném rozlišení
-[zde]().
+[zde](https://drive.google.com/file/d/1hadmcNHpALnt44ZyRdc1EwTYvehjOq1_/view?usp=sharing).
 
 ## 11: závěrová tabulka {#zaverova-tabulka}
 
@@ -66,7 +66,7 @@ Video je k dispozici v plném rozlišení
 frameborder="0" allowfullscreen></iframe>
 
 Video je k dispozici v plném rozlišení
-[zde]().
+[zde](https://drive.google.com/file/d/1uzqU4nmnlFqEAaMleNXlPidGj8BQrz-Q/view?usp=sharing).
 
 ## 12: hnací vozidla, ruční řízení, ukázka provozu {#bezny-provoz}
 
@@ -74,7 +74,7 @@ Video je k dispozici v plném rozlišení
 frameborder="0" allowfullscreen></iframe>
 
 Video je k dispozici v plném rozlišení
-[zde]().
+[zde](https://drive.google.com/file/d/1TtJ2-_bmr3-LUaC_9J-WvkdiktYlVfP0/view?usp=sharing).
 
 ---
 
