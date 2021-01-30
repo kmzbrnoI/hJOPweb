@@ -14,7 +14,7 @@ $(function () {
     var $images = $("article img:not(.emoji, .eye-catch, .no-link)");
     $images.each(function () {
         var imgUrl = $(this).attr("src");
-        var $a = $("<a>").attr("href", imgUrl).attr("target", "_blank");
+        var $a = $("<a><div class='img-wrap'>").attr("href", imgUrl).attr("target", "_blank");
         $(this).wrap($a);
     });
 
