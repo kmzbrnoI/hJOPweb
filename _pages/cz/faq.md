@@ -45,7 +45,7 @@ ovládat jeden člověk?</span>
 
 hJOP je zabezpečovací systém pro řízení modelového kolejiště. Jeho cílem je být
 obdobou elektronického stavědla. hJOP momentálně nepodporuje práci s grafikonem
-vlakové dopravy. Aktuálně probíhá vývoj na grafiko-technologické nadstavbě hJOP
+vlakové dopravy. Aktuálně probíhá vývoj na graficko-technologické nadstavbě hJOP
 (GTN), která by měla přinést možnost zobrazit si v hJOP grafikon, zaznamenávat
 do grafikonu reálně odjeté vlaky a dokonce i automaticky stavět jízdní cesty
 podle grafikonu (ASVC). GTN pro hJOP je aktuálně na začátku vývoje.
