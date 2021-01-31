@@ -7,9 +7,4 @@ $(function () {
             $(this).attr("target", "_blank");
         }
     });
-
-    // stick aside.
-    $(".site-aside .sticky").sticky({
-        topSpacing: 10
-    });
 });
