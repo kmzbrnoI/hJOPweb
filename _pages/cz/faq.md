@@ -12,7 +12,7 @@ lidí a budeme si hrát na výpravčí a na strojvedoucí?</span>
 <span class="faq-answer">Ano. Každá oblast řízení může mít svého výpravčího na
 svém vlastním počítači.  Jedinou podmínkou je, že počítače musí být ve stejné
 síti.  Každé hnací vozidlo může být řízeno jiným strojvedoucím. Doporučené
-řešení je využít aplikací [Jerry](/Jerry) a [hJOPdriver](/androidDriver). Každý
+řešení je využít aplikací [Jerry](/Jerry) a [hJOPdriver](/hJOPdriver). Každý
 strojvedoucí má svůj mobil, tablet nebo počítač, z kterého řídí jednu nebo více
 lokomotiv. Alternativně lze řídit jízdu lokomotiv pomocí fyzických ovladačů
 připojených přímo k centrále. Tato konfigurace však nenabízí tak pohodlné

@@ -9,7 +9,7 @@ lang: cz
 Jerry je jednoduchá klientská aplikace, která se připojuje k hJOPserveru a která
 umožňuje řízení jízdy hnacích vozidel.
 
-![Jerry](/assets/img/Jerry.png)
+{% include figure.html url="/assets/img/Jerry.png" caption="Program Jerry" %}
 
 Jerry lze otevřít přímo z hJOPpanelu, nebo -- pokud dispečer není zároveň
 strojvedoucí -- lze Jerryho spustit na úplně jiném počítači.

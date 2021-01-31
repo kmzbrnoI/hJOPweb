@@ -1,12 +1,12 @@
 ---
 layout: page
-title: hJOP Android Driver
-permalink: /androidDriver
+title: hJOPdriver
+permalink: /hJOPdriver
 order: 32
 lang: cz
 ---
 
-hJOP Android Driver je mobilní aplikace pro OS Android, která umožňuje řídit
+hJOPdriver je mobilní aplikace pro OS Android, která umožňuje řídit
 jízdu hnacích vozidel ve spolupráci s hJOP. Plně podporuje workflow předávání
 a uvolňování lokomotiv za využití spolupráce dispečerů.
 
@@ -14,9 +14,12 @@ Zdrojové kódy jsou k dispozici na
 [Githubu](https://github.com/kmzbrnoI/hJOPandroidDriver), aplikace je volně
 dostupná v [Google Play](https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager).
 
-<a href='https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img class="no-link" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
+<a href='https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+ <img class="no-link" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px" style="display: block; margin: auto;"/>
+</a>
 
-<img src="/assets/img/hJOPdriver-cz-loco-landscape.png" style="max-width: 600px;" />
+{% include figure.html url="/assets/img/hJOPdriver-cz-loco-landscape.png"
+   caption="Ukázka rozhraní aplikace hJOPdriver" img-style="max-width: 600px;"%}
 
 Aplikace vznikla jako [diplomová práce](http://is.mendelu.cz/lide/clovek.pl?id=43049;zalozka=7;studium=77602;zp=54008;lang=cz)
 [Ing Miroslava Maříka](http://is.mendelu.cz/lide/clovek.pl?id=43049;lang=cz)
@@ -24,8 +27,10 @@ v [Laboratoři řízení kolejových vozidel MENDELU](http://lrkv.pef.mendelu.c
 pod vedením doc. Jiřího Rybičky a s technickou asistencí Jana Horáčka. Aplikace
 umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
 
-<img src="/assets/img/hJOPdriver-cz-serverlist.png" style="max-width: 200px;" />
-<img src="/assets/img/hJOpdriver-cz-loco.png" style="max-width: 200px;" />
+<div style="text-align: center;">
+ <img src="/assets/img/hJOPdriver-cz-serverlist.png" style="max-width: 200px;" />
+ <img src="/assets/img/hJOpdriver-cz-loco.png" style="max-width: 200px;" />
+</div>
 
 ## Funkce
 

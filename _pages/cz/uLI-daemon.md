@@ -8,10 +8,10 @@ lang: cz
 
 uLI-daemon je démon umožňující funkci [uLI-master](/uLI-master).
 
-![uLI-daemon](/assets/img/uLI-daemon.png)
+{% include figure.html url="/assets/img/uLI-daemon.png" caption="uLI-daemon" %}
 
-uLI-daemon se spouští se startem prvního panelu na dispečerském počítači a
-připojuje se ke třem rozhraním:
+uLI-daemon se spouští se startem prvního panelu na dispečerském počítači
+a připojuje se ke třem rozhraním:
 
  1. K [uLI-master](/uLI-master).
  2. K lokálním [hJOPpanelům](/hJOPpanel).

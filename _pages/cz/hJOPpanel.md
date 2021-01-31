@@ -19,21 +19,10 @@ binární soubor bude pouze jeden.
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPpanel/releases">Stáhnout</a>
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPpanel">Zdrojové kódy</a>
 
-![hJOPpanel](/assets/img/hJOPpanel-kr-sm1.png)
-*Panel s postavenými vlakovými cestami a zobrazenými popisky bloků.*
-
-![hJOPpanel](/assets/img/hJOPpanel-dcc.png)
-*Panel s indikující výpadek DCC signálu.*
-
-![hJOPpanel](/assets/img/hJOPpanel-fialova-smrt.png)
-*Fialová smrt.*
-
-![Potvrzovací sekvence](/assets/img/potvr-sekv.png)
-
-![Menu](/assets/img/hJOPpanel-menu.png)
-*Zobrazené menu.*
-
-![Editace soupravy](/assets/img/hJOPpanel-spr.png)
-
-![Nastavení](/assets/img/hJOPpanel-cfg.png)
-
+{% include figure.html url="/assets/img/hJOPpanel-kr-sm1.png" caption="Panel s postavenými vlakovými cestami a zobrazenými popisky bloků." %}
+{% include figure.html url="/assets/img/hJOPpanel-dcc.png" caption="Panel s indikující výpadek DCC signálu." %}
+{% include figure.html url="/assets/img/hJOPpanel-fialova-smrt.png" caption="Fialová smrt." %}
+{% include figure.html url="/assets/img/potvr-sekv.png" caption="Potvrzovací sekvence" %}
+{% include figure.html url="/assets/img/hJOPpanel-menu.png" caption="Menu" %}
+{% include figure.html url="/assets/img/hJOPpanel-spr.png" caption="Editace soupravy" %}
+{% include figure.html url="/assets/img/hJOPpanel-cfg.png" caption="Nastavení" %}

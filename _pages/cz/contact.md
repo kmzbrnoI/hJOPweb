@@ -9,7 +9,7 @@ lang: cz
 Projekt hJOP vytvořil a vytváří [Jan Horáček](http://apophis.cz/), aktivní člen
 [Klubu modelářů železnic Brno I](http://kmz-brno.cz/) a současný student
 [Fakulty informatiky Masarykovy univerzity](http://fi.muni.cz/). Přidružené
-aplikace bývají dílem dalších osob, například [Android Driver](/androidDriver)
+aplikace bývají dílem dalších osob, například [hJOPdriver](/hJOPdriver)
 vytvořil [Ing. Miroslav Mařík](http://is.mendelu.cz/lide/clovek.pl?id=43049)
 v rámci diplomové práce v [Laboratoří řízení kolejových
 vozidel](http://lrkv.pef.mendelu.cz/).

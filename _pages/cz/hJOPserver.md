@@ -26,17 +26,10 @@ hJOPserver se připojuje ke kolejišti dvěma nezávislými systémy (USB kabely
 Alternativně lze oba systémy připojit k jedné DCC centrále za využít dvou LI
 připojených k jedné DCC centrále.
 
-![Screenshot stavu technologie](assets/img/hJOPserver-tech.png)
-*Stav technologie.*
-
-![Screenshot seznamu bloků](assets/img/hJOPserver-blk.png)
-*Databáze bloků.*
-
-![Screenshot databáze jízdních cest](assets/img/hJOPserver-jc.png)
-*Databáze jízdních cest.*
-
-![Screenshot databáze hnacích vozidel](assets/img/hJOPserver-hv.png)
-*Databáze hnacích vozidel.*
+{% include figure.html url="/assets/img/hJOPserver-tech.png" caption="Stav technologie" %}
+{% include figure.html url="/assets/img/hJOPserver-blk.png" caption="Databáze bloků" %}
+{% include figure.html url="/assets/img/hJOPserver-jc.png" caption="Databáze jízdních cest" %}
+{% include figure.html url="/assets/img/hJOPserver-hv.png" caption="Databáze hnacích vozidel." %}
 
 Zdrojové kódy jsou k dispozici na [githubu](https://github.com/kmzbrnoI/hJOPserver),
 v [Releases](https://github.com/kmzbrnoI/hJOPserver/releases) jsou k dispozici

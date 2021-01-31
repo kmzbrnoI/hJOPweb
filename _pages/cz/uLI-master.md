@@ -9,7 +9,8 @@ lang: cz
 uLI-master je krabička rozměru 7×5 cm, která umožňuje připojení ovladačů
 (testováno na Roco Multimaus) přímo k obslužnému pracovišti dispečera.
 
-<img src="/assets/img/uLI-master-out.jpg" width="480px" />
+{% include figure.html url="/assets/img/uLI-master-out.jpg" caption="Ukázka připojení Roco Multimaus k uLI-master"
+   img-style="max-width: 480px;" %}
 
 Na úvod: v našem klubu řídíme hnací vozidla v režimu výpravčích: vlak, který
 mi přijede do stanice, vyřídím a pošlu dál. V režimu strojvedoucích -- jako
@@ -36,8 +37,7 @@ který poveluje jízdu, a k lokálním panelům, které předávají lokomotiv
 ručního řízení. Propojení přes hJOPserver umožňuje kontrolovat, zda má
 strojvedoucí oprávnění na řízení hnacího vozidla.
 
-![Vnitřek uLI-master](/assets/img/uLI-master-board.jpg)
-*Deska plošných spojů uLI.*
+{% include figure.html url="/assets/img/uLI-master-board.jpg" caption="Deska plošných spojů uLI." %}
 
 Krabička v sobě obsahuje DPS vlastního návrhu, za návrh schématu bych rád
 poděkoval Michalu Petrilakovi. Středobodem krabičky je procesor PIC18F14K50.
@@ -51,6 +51,4 @@ komunikačního protokolu.
  * [Výkres DPS](https://github.com/kmzbrnoI/uLI-pcb).
  * [Firmware včetně zdrojových kódů](https://github.com/kmzbrnoI/uLI-master-fw).
 
-![Výkres DPS](/assets/img/uLI-board-eagle.png)
-*Výkres desky plošných spojů uLI.*
-
+{% include figure.html url="/assets/img/uLI-board-eagle.png" caption="Výkres desky plošných spojů uLI." %}

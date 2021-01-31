@@ -35,7 +35,7 @@ umožnily editaci kolejiště na míru a -- a to především -- pohodlné ř�
 
  * [**Jerry**](/Jerry): program umožňující řídit jízdu vlaku z role
    strojvedoucího.
- * [**Android Driver**](/androidDriver): mobilní aplikace pro Android sloužící
+ * [**hJOPdriver**](/hJOPdriver): mobilní aplikace pro Android sloužící
    k řízení jízdy souprav.
  * [**uLI-master**](/uLI-master): hardware umožňující připojení Roco Multimaus
    k obslužným pracovištím, umožňuje řídit jízdu vlaku hardwarovým ovladačem.

@@ -7,8 +7,7 @@ lang: cz
 
 hJOP je otevřený softwarový balík umožňující řídit modelové kolejiště dle ZTP-JOP.
 
-![Panel stanice](/assets/img/hJOPpanel-le-sy.png)
-*Příklad panelu stanic v hJOP.*
+{% include figure.html url="/assets/img/hJOPpanel-le-sy.png" caption="Příklad panelu stanic v hJOP." %}
 
 hJOP je vyvíjena [Klubem modelářů železnic Brno I](http://kmz-brno.cz/), kde je
 nasazena na modulových i pevných kolejištích. Je to hlavní software, kterým se
@@ -51,7 +50,7 @@ kolejiště.
  * Řízení v režimu server–klienti.
  * Podpora ručních ovladačů (např. Roco Multimaus).
  * Podpora [softwarových ovladačů](/Jerry).
- * Podpora [ovladačů na mobilních zařízeních](/androidDriver).
+ * Podpora [ovladačů na mobilních zařízeních](/hJOPdriver).
  * Automatické řízení jízdy vlaků, možnost převzít řízení ovladačem.
  * Uživatelské účty, autentizace dispečerů.
  * Automatické spouštění zvuků (houkání před pískáčky, trubka vlakvedoucího
