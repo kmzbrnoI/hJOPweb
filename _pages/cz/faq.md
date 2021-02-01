@@ -105,3 +105,4 @@ v domácích podmínkách bude vyžadovat trochu trpělivosti, ale možné je.<
 <hr />
 
 Chybí vám tady něco?
+<a class="btn btn-center" style="width: 200px;" href="/contact">Zeptat se</a>
