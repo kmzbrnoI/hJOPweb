@@ -21,8 +21,8 @@ hJOP umožňuje vytvořit libovolný layout kolejiště, vytvoření reliéfů j
 
 hJOP je vyvíjena jako *opensource projekt* pod *Apache License v2.0*. Kdokoliv si
 může stáhnout [zdrojové kódy](https://github.com/kmzbrnoI/) či [spustitelné
-soubory](vyzkouset). hJOP nemá žádné licence, všechen software je v plné
-verzi zdarma.
+soubory](vyzkouset). hJOP není nijak zpoplatněna, všechen software je v plné
+verzi ke stažení zdarma.
 
 Cílem hJOP je nabídnout bezpečné a pohodlné řízení modelového kolejiště podobné
 řízení skutečné české železnice. A to primárně ve výše zmíněném klubu,
