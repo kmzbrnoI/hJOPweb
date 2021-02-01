@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /contact
-order: 102
+order: 103
 lang: cz
 ---
 
