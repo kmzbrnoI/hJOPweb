@@ -11,16 +11,18 @@ lang: cz
 hJOPvyznamy je jedna přehledná strana A4 obsahující nápovědy ke všem položkám
 ve všech menu hJOP.
 
-Pdf je k dispozici v Releases
-v [projektu na githubu](https://github.com/horacekj/hJOPvyznamy).
+<a class="btn" href="https://github.com/horacekj/hJOPvyznamy/releases/latest/download/hJOPvyznamy.pdf">Stáhnout PDF</a>
+<a class="btn" href="https://github.com/horacekj/hJOPvyznamy">Zdrojová data</a>
+
 
 ## hJOPquiz
 
 hJOPquiz je dokument obsahující otázky, kterými se testuje způsobilost
 dispečerů k obsluze hJOP.
 
-Pdf je k dispozici v Releases
-v [projektu na githubu](https://github.com/horacekj/hJOPquiz).
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPquiz/releases/latest/download/hJOPquiz.pdf">PDF s otázkami</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPquiz/releases/latest/download/hJOPquizKey.pdf">PDF s odpověďmi</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPquiz">Zdrojová data</a>
 
 ## Automatická kalibrace
 
