@@ -10,7 +10,7 @@ Líbí se vám hJOP? Chcete si ji nasadit na svém kolejišti? Nebo vás prostě
 projekt jen nadchl? Máte nějaký dotaz? Chcete být informování o vydání nových
 verzí hJOP? Nebo podat nějaký námět na vylepšení?
 
-Pokud jste alespoň na jenu otázku odpověděli ano, staňte se členy **Komunity
+Pokud jste alespoň na jednu otázku odpověděli ano, staňte se členy **Komunity
 uživatelů hJOP**.
 
 Příznivci a uživatelé se sdružují ve skupině [Komunita
