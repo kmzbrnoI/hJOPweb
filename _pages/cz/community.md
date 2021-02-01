@@ -23,6 +23,5 @@ také.
 Do skupiny chodí notifikace o vydání nových verzí hJOP, takže vám díky
 odebírání zpráv již neunikne žádná novinka!
 
-<a class="btn" style="width:400px; min-height: 60px; margin: 10px;
-                      margin: auto; display: flex; justify-content: center; align-items: center;"
+<a class="btn btn-center" style="width:400px; min-height: 60px;"
    href="https://groups.google.com/g/hjop-komunita">Připojit se ke komunitě uživatelů hJOP</a>

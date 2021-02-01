@@ -100,3 +100,8 @@ Proto nemáme s DCC komponenty pro řízení příslušenství moc zkušeností
 Systém MTB bohužel (zatím) není dostupný ke koupi. Je možné, že nasazení hJOP
 v domácích podmínkách bude vyžadovat trochu trpělivosti, ale možné je.</p>
 </div>
+
+
+<hr />
+
+Chybí vám tady něco?

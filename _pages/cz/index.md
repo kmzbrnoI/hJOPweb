@@ -30,9 +30,7 @@ sekundárně i kdekoliv jinde. To se odráží například v tom, že hJOP pod
 i běžně dostupný komerční hardware. Je tedy možné ji nasadit i na domácí
 kolejiště.
 
-<div style="text-align:center;">
-<a class="btn" style="width:250px;" href="vyzkouset">Chci si vyzkoušet hJOP</a>
-</div>
+<a class="btn btn-center" style="width:250px;" href="vyzkouset">Chci si vyzkoušet hJOP</a>
 
 ## Základní vlastnosti {#basicProperties}
 
