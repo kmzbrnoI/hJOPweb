@@ -2,7 +2,7 @@
 layout: page
 title: Odkazy
 permalink: /links
-order: 102
+order: 100
 lang: cz
 ---
 
