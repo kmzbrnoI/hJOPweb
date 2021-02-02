@@ -41,10 +41,9 @@ kolejiště.
    zámky, přejezdy, rozpojovače, výkolejky, dvojitá kolejová spojka.
  * Jízdní cesty, plně konfigurovatelná závěrová tabulka.
  * Přenos čísla vlaku.
- * Podpora pro snímání stavu zesilovačů na kolejišti.
+ gd
  * Možnost spustit kolejiště v *automatickém režimu*, kdy kolejiště na klik
-   odjezdí předem připravený grafikon. Grafikon lze editovat ve vlastním
-   skriptovacím jazyce.
+   odjezdí předem připravený grafikon.
  * Řízení v režimu server–klienti.
  * Podpora ručních ovladačů (např. Roco Multimaus).
  * Podpora [softwarových ovladačů](/Jerry).
