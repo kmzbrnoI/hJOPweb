@@ -106,5 +106,22 @@ může sloužit jako pomocník při ježdění podle grafikonu.</li>
 
 <hr />
 
+<div class="faq-question"><p>
+Chci řídit trakci i příslušenství přes XpressNET. Je lepší použít jednu
+centrálu a 2 LI nebo 2 centrály?
+</p></div>
+
+<div class="faq-answer"><p>
+Použít 1 DCC centrálu a 2 LI je rozhodně levnější, proto bych tento přístup doporučil.
+Ale pouze za podmínky: <strong>DCC z centrály je připojeno do kolejí přes další
+zesilovače, které nepropagují zkrat do centrály</strong>. Příslušenství (např.
+přestavníky výhybek) je pak připojeno buď přes jiný zesilovač nebo přímo do
+centrály. Jde o to, aby v momentě, kdy nastane v kolejích zkrat, šlo přestavit
+výhybky a tím se zkratu zbavit. Centrála tedy nesmí v případě zkratu vypnout DCC
+signál do dekodéru přestavníků.
+</p></div>
+
+<hr />
+
 Chybí vám tady něco?
 <a class="btn btn-center" style="width: 200px;" href="/contact">Zeptat se</a>
