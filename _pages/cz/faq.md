@@ -6,6 +6,40 @@ order: 90
 lang: cz
 ---
 
+<div class="faq-question">
+<p>Komunikuje hJOP pouze s centrálami, které uvádíte na webu nebo i jinými?
+Respektive, co byste doporučil, jaké centrály a komponenty se osvědčily nejlépe?</p>
+</div>
+
+<div class="faq-answer">
+<p>hJOP komunikuje s libovolnými centrálami, ke kterým se lze připojit pomocí
+protokolu XpressNET. My jsme v klubu používali tyto centrály:</p>
+
+<ul>
+<li>NanoX. Celkem fungovalo, občas drobné problémy s firmwarem, nutné použít
+jiné LI než vestavěné. Vestavěnému LI se občas po delší době rozpadne komunikace.
+Vhodná levná centrála pro menší kolejiště. [2016]</li>
+<li>Lenz LZV100. Tuto centrálu máme aktuálně nasazenou na klubovním velkém kolejišti,
+funguje dobře. Nevýhodou je vyšší cena. Dnes je dostupný její následovník –
+LZV200, kterou jsme ale zatím nezkoušeli.[2020]</li>
+<li>Digikeijs DR5000. Tuto centrálu jsme zkoušeli, ale nebyli jsme schopni jak
+s vestavěným LI tak s externím LI komunikaci zprovoznit. 25. 4. 2020 jsme
+nahlásili chyby na Digikeijs, chyby zatím nebyly opraveny. [2020]</li>
+<li>Roco Z21. Tuto centrálu jsme nikdy nezkoušeli, ale nebál bych se s ní
+hJOPku provozovat. Na Z21 jsou obecně dobré reference. Stačí Start verze.</li>
+</ul>
+
+<p>hJOP bohužel není pravidelně testována na řízení příslušenství přes XpressNET.
+Příslušenství (výhybky, přestavníky, návěstidla, snímání detekce obsazení, ...)
+našich klubovních kolejišť je řízeno pomocí <a href="https://mtb.kmz-brno.cz/">systému
+MTB</a>, DCC centrálou řídíme jen jízdu vlaků.
+Proto nemáme s DCC komponenty pro řízení příslušenství moc zkušeností.
+Systém MTB bohužel (zatím) není dostupný ke koupi. Je možné, že nasazení hJOP
+v domácích podmínkách bude vyžadovat trochu trpělivosti, ale možné je.</p>
+</div>
+
+<hr />
+
 <div class="faq-question"><p>Lze hJOP provozovat tak, že ji bude ovládat více
 lidí a budeme si hrát na výpravčí a na strojvedoucí?</p></div>
 
@@ -69,38 +103,6 @@ podle grafikonu (ASVC). GTN pro hJOP je aktuálně na začátku vývoje.</p>
 povely ke stavění konkrétních cest v konkrétní časy. Takový program pak
 může sloužit jako pomocník při ježdění podle grafikonu.</li>
 </ul>
-
-<hr />
-
-<div class="faq-question">
-<p>Komunikuje hJOP pouze s centrálami, které uvádíte na webu nebo i jinými?
-Respektive, co byste doporučil, jaké centrály a komponenty se osvědčily nejlépe?</p>
-</div>
-
-<div class="faq-answer">
-<p>hJOP komunikuje s libovolnými centrálami, ke kterým se lze připojit pomocí
-protokolu XpressNET. My jsme v klubu používali tyto centrály:</p>
-
-<ul>
-<li>NanoX. Celkem fungovalo, občas drobné problémy s firmwarem, nutné použít
-jiné LI než vestavěné. Vestavěnému LI se občas po delší době rozpadne komunikace.
-Vhodné na menší kolejiště.</li>
-<li>Lenz LV100. Tuto centrálu máme aktuálně nasazenou na klubovním velkém kolejišti,
-funguje dobře.</li>
-<li>Digikeijs DR5000. Tuto centrálu jsme zkoušeli, ale nebyli jsme schopni jak
-s vestavěným LI tak s externím LI komunikaci zprovoznit. 25. 4. 2020 jsme
-nahlásili chyby na Digikeijs, chyby zatím nebyly opraveny.</li>
-</ul>
-
-<p>hJOP bohužel není pravidelně testována na řízení příslušenství přes XpressNET.
-Příslušenství (výhybky, přestavníky, návěstidla, snímání detekce obsazení, ...)
-našich klubovních kolejišť je řízeno pomocí <a href="https://mtb.kmz-brno.cz/">systému
-MTB</a>, DCC centrálou řídíme jen jízdu vlaků.
-Proto nemáme s DCC komponenty pro řízení příslušenství moc zkušeností.
-Systém MTB bohužel (zatím) není dostupný ke koupi. Je možné, že nasazení hJOP
-v domácích podmínkách bude vyžadovat trochu trpělivosti, ale možné je.</p>
-</div>
-
 
 <hr />
 
