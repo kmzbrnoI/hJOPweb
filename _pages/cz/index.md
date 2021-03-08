@@ -57,9 +57,7 @@ kolejiště.
 
 ## Požadavky {#requirements}
 
- * Příslušenství řízené pomocí [MTB-BUS](http://mtb.kmz-brno.cz/) nebo XpressNET
-   – RS, S88.
-   - [Řízení příslušenství přes XpressNET](/rcs) je dostupné v beta verzi.
+ * Příslušenství řízené pomocí [MTBbus](http://mtb.kmz-brno.cz/) nebo [XpressNET](/rcs#xpressnet).
  * Jízda řízená DCC centrálou s rozhraním XpressNET. LI pro připojení k počítači.
  * Kolejiště rozdělené na kolejové obvody jako na skutečné železnici.
  * Kalibrovaná hnací vozidla ([Co to znamená?](http://www.kmz-brno.cz/rychlostni-tabulky-pro-provoz-vozidel-na-klubovnich-kolejistich/)).
