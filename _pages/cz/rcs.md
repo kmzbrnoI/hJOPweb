@@ -29,12 +29,14 @@ Knihovna používá dekodéry příslušenství jako vstupy i výstupy.
 <a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt">Zdrojové kódy</a>
 <a class="btn" href="https://github.com/kmzbrnoI/rcs-lib-XpressNET-qt/wiki">Návod</a>
 
-## MTB {#mtb}
+## MTB v2 {#mtb}
 
 MTB knihovna umožňuje komunikaci s [moduly MTB](https://mtb.kmz-brno.cz/).
 Knihovna je dostupná [na githubu](https://github.com/kmzbrnoI/mtb-lib), kde
 je [podrobná dokumentace](https://github.com/kmzbrnoI/mtb-lib/wiki)
 jejího API. Toto API je společné pro všechny RCS knihovny.
+
+Tato knihovna bude postupně nahrazena knihovnou *MTB Network Library*.
 
 <a class="btn" href="https://github.com/kmzbrnoI/mtb-lib/releases">Stáhnout</a>
 <a class="btn" href="https://github.com/kmzbrnoI/mtb-lib">Zdrojové kódy</a>
@@ -42,6 +44,17 @@ jejího API. Toto API je společné pro všechny RCS knihovny.
 Tato knihovna může sloužit komukoliv, kdo má zájem snadno a rychle
 komunikovat s [MTB](http://mtb.kmz-brno.cz/) -- například studentům
 v [Laboratoři řízení kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/).
+
+## MTB Network Library {#mtb-net}
+
+*MTB Network Library* umožňuje komunikaci s aplikací
+[MTB Daemon](https://mtb.kmz-brno.cz/v4/daemon), která se připojuje
+k [MTB v4](https://mtb.kmz-brno.cz/). Nahrazuje knihovnu *MTB v2*.
+
+Knihovna je aktuálně v *alpha* verzi.
+
+<a class="btn" href="https://github.com/kmzbrnoI/mtb-net-lib/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/mtb-net-lib">Zdrojové kódy</a>
 
 ## Simulace {#ximulator}
 
@@ -54,15 +67,15 @@ hJOP bez připojeného kolejiště.
 
 ---
 
-## RCS – Railroad Control System Interface
+## Specifikace RCS API
 
-RCS je implementace rozhraní umožňující načíst dll knihovnu přímo z vašeho
+<a class="btn" href="https://github.com/kmzbrnoI/rcs-api">Číst specifikaci RCS API</a>
+
+
+## Railroad Control System Interface
+
+*RCSI* je implementace rozhraní umožňující načíst dll knihovnu přímo z vašeho
 oblíbeného programovacího jazyka a využívat její funkcionality prostým voláním
 metod třídy.
 
 Momentálně existuje [pro jazyk Object Pascal](https://github.com/kmzbrnoI/rcs-delphi).
-
-## Vzorová RCS knihovna v jazyce C
-
-Pokud si chcete napsat vlastní RCS knihovnu, můžete využít
-[šablonu pro jazyk C](https://github.com/kmzbrnoI/rcs-lib).
