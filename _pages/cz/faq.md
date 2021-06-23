@@ -39,6 +39,15 @@ v domácích podmínkách bude vyžadovat trochu trpělivosti, ale možné je.<
 </div>
 
 <hr />
+<div class="faq-question"><p>Je možné připojit hJOP k centrále Roco Z21 přímo
+přes WiFi bez použití drátového LI?</p></div>
+
+<div class="faq-answer"><p>
+V současné době není možné připojení hJOP k Z21 přes počítačovou síť.
+Připojení k Z21 možné je, je ale třeba využít libovolné drátové LI s USB rozhraním.
+</p></div>
+
+<hr />
 
 <div class="faq-question"><p>Lze hJOP provozovat tak, že ji bude ovládat více
 lidí a budeme si hrát na výpravčí a na strojvedoucí?</p></div>
