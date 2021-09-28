@@ -38,7 +38,8 @@ kolejiště.
  * Platforma OS Windows.
  * Editor technologických bloků, [editor reliéfů stanic](/hJOPeditor).
  * Kolejové úseky, výhybky, infračidla, SCom i mechanická návěstidla, tratě,
-   zámky, přejezdy, rozpojovače, výkolejky, dvojitá kolejová spojka.
+   zámky, přejezdy, rozpojovače, výkolejky, dvojitá kolejová spojka, pomocná
+   stavědla.
  * Jízdní cesty, plně konfigurovatelná závěrová tabulka.
  * Přenos čísla vlaku.
  gd
