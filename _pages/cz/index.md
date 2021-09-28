@@ -37,12 +37,11 @@ kolejiště.
  * Grafické rozhraní na bázi jednotného obslužného pracoviště (JOP).
  * Platforma OS Windows.
  * Editor technologických bloků, [editor reliéfů stanic](/hJOPeditor).
- * Kolejové úseky, výhybky, infračidla, SCom i mechanická návěstidla, tratě,
-   zámky, přejezdy, rozpojovače, výkolejky, dvojitá kolejová spojka, pomocná
-   stavědla.
+ * Kolejové úseky, výhybky, výkolejky, infračidla, S-COM i mechanická návěstidla,
+   skupinová návěstidla, tratě, zámky, přejezdy, pomocná stavědla, rozpojovače,
+   dvojitá kolejová spojka.
  * Jízdní cesty, plně konfigurovatelná závěrová tabulka.
  * Přenos čísla vlaku.
- gd
  * Možnost spustit kolejiště v *automatickém režimu*, kdy kolejiště na klik
    odjezdí předem připravený grafikon.
  * Řízení v režimu server–klienti.
@@ -52,9 +51,12 @@ kolejiště.
  * Automatické řízení jízdy vlaků, možnost převzít řízení ovladačem.
  * Uživatelské účty, autentizace dispečerů.
  * Automatické spouštění zvuků (houkání před pískáčky, trubka vlakvedoucího
-   v zastávce).
+   v zastávce, ...).
  * [Poloautomatické staniční hlášení](https://www.kmz-brno.cz/stanicni-hlaseni/).
  * Možnost zadat na jednu staniční kolej více souprav.
+ * [JSON API pro komunikaci s externími nadstavbovými
+   aplikacemi](https://github.com/kmzbrnoI/hJOPserver/wiki/ptServer), možnost
+   tvorby vlastních automatizačních skriptů.
 
 ## Požadavky {#requirements}
 
