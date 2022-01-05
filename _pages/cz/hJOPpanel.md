@@ -19,7 +19,7 @@ binární soubor bude pouze jeden.
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPpanel/releases">Stáhnout</a>
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPpanel">Zdrojové kódy</a>
 
-{% include figure.html url="/assets/img/hJOPpanel-kr-sm1.png" caption="Panel s postavenými vlakovými cestami a zobrazenými popisky bloků." %}
+{% include figure.html url="/assets/img/hJOPpanel-sk-description.png" caption="Panel s postavenými vlakovými cestami a zobrazenými popisky bloků." %}
 {% include figure.html url="/assets/img/hJOPpanel-dcc.png" caption="Panel s indikující výpadek DCC signálu." %}
 {% include figure.html url="/assets/img/hJOPpanel-fialova-smrt.png" caption="Fialová smrt." %}
 {% include figure.html url="/assets/img/potvr-sekv.png" caption="Potvrzovací sekvence" %}
