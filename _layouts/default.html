@@ -88,6 +88,10 @@
                 <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                 {% endif %}
                 {% endfor %}
+                {% if page.lang == 'en' %}
+                <li><a class="page-link" href="https:/github.com/kmzbrnoI/hJOPandroidDriver#readme">hJOPdriver</a></li>
+                <li><a class="page-link" href="https://github.com/kmzbrnoI/hJOPrcsDebugger#readme">hJOP RCS Debugger</a></li>
+                {% endif %}
             </ul>
             <ul class="icons">
                 {% include icons.html icons=site.icons %}
