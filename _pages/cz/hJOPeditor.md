@@ -7,7 +7,7 @@ lang: cz
 ---
 
 hJOPeditor je software sloužící k editaci reliéfů. Editor needituje celý
-projekt kolejiště, ale vždy jen jeden reliéf. Před započatím samotné editace
+projekt kolejiště, ale vždy jen jeden reliéf. Před započetím samotné editace
 je nutné v hJOPserveru vytvořit technologické bloky. V editoru se pak jen
 technologické bloky přiřadí konkrétním grafickým blokům v reliéfu.
 

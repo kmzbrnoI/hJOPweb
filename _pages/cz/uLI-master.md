@@ -45,7 +45,7 @@ USB část a XpressNETí část jsou galvanicky oddělené.
 
 Celé zařízení je vyvíjeno jako opensource, resp. openhardware, takže si jej
 může kdokoliv vyrobit, či nahlásit připomínky. K FW je také vyčerpávající
-dokumentace na githubu, která by měla popisovat úplně všechno včetně
+dokumentace na Githubu, která by měla popisovat úplně všechno včetně
 komunikačního protokolu.
 
  * [Výkres DPS](https://github.com/kmzbrnoI/uLI-pcb).

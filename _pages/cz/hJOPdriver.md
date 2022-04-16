@@ -10,13 +10,8 @@ hJOPdriver je mobilní aplikace pro OS Android, která umožňuje řídit
 jízdu hnacích vozidel ve spolupráci s hJOP. Plně podporuje workflow předávání
 a uvolňování lokomotiv za využití spolupráce dispečerů.
 
-Zdrojové kódy jsou k dispozici na
-[Githubu](https://github.com/kmzbrnoI/hJOPandroidDriver), aplikace je volně
-dostupná v [Google Play](https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager).
-
-<a href='https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
- <img class="no-link" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px" style="display: block; margin: auto;"/>
-</a>
+<a class="btn" href="https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager">Dostupné na Google Play</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPandroidDriver">Zdrojové kódy</a>
 
 {% include figure.html url="/assets/img/hJOPdriver-cz-loco-landscape.png"
    caption="Ukázka rozhraní aplikace hJOPdriver" img-style="max-width: 600px;"%}

@@ -12,14 +12,8 @@ diagnostiku kolejiště – při řešení problému v kolejišti si s sebou p
 kolejiště opravující vezme mobilní telefon a může si zobrazit stav modulu,
 který diagnostikuje.
 
-Aplikace je dostupná pod opensource licencí, zdrojové kódy jsou k dispozici na
-serveru [GitHub](https://github.com/kmzbrnoI/hJOPrcsDebugger). Aplikace je
-ke stažení dostupná v [Google
-Play](https://play.google.com/store/apps/details?id=kmzbrnoI.hjoprcsdebugger).
-
-<a href='https://play.google.com/store/apps/details?id=kmzbrnoI.hjoprcsdebugger'>
-<img class="no-link" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px" style="margin: auto; display: block;"/>
-</a>
+<a class="btn" href="https://play.google.com/store/apps/details?id=kmzbrnoI.hjoprcsdebugger">Dostupné na Google Play</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPrcsDebugger">Zdrojové kódy</a>
 
 <div style="text-align: center;">
  <img src="/assets/img/hJOPrcsDebugger-modules.png" style="max-width: 200px;" />
@@ -27,7 +21,7 @@ Play](https://play.google.com/store/apps/details?id=kmzbrnoI.hjoprcsdebugger).
 </div>
 
 Aplikace vznikla jako v rámci semestrální práce Hanky Navrátilové na [Fakultě
-informatiky Masarykovy unizverizty](https://fi.muni.cz/).
+informatiky Masarykovy univerzity](https://fi.muni.cz/).
 
 ## Funkce
 
