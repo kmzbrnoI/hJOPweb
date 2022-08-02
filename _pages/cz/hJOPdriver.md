@@ -11,6 +11,7 @@ jízdu hnacích vozidel ve spolupráci s hJOP. Plně podporuje workflow předá
 a uvolňování lokomotiv za využití spolupráce dispečerů.
 
 <a class="btn" href="https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager">Dostupné na Google Play</a>
+<a class="btn" href="https://f-droid.org/packages/cz.mendelu.xmarik.train_manager/">F-Droid</a>
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPandroidDriver">Zdrojové kódy</a>
 
 {% include figure.html url="/assets/img/hJOPdriver-cz-loco-landscape.png"
