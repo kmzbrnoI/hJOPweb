@@ -2,7 +2,7 @@
 layout: page
 title: Komunita uživatelů hJOP
 permalink: /community
-order: 102
+order: 105
 lang: cz
 ---
 
