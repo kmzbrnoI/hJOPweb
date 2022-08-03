@@ -24,5 +24,5 @@ serveru.
 
 ## Kontakt na vývojáře
 Pokud máte dotaz ohledně vývoje a funkcí balíku hJOP, můžete kontaktovat
-[vývojářskou komunitu emailem](https://groups.google.com/g/hjop-komunita) a nebo navštívit
+[komunitu emailem](https://groups.google.com/g/hjop-komunita) a nebo navštívit
 [Github](https://github.com/kmzbrnoI) nebo [stránky](https://hjop.kmz-brno.cz) projektu hJOP.
