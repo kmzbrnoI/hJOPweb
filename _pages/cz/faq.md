@@ -29,14 +29,6 @@ kolejišti H0. V počátku jsme s ní měli problémy, ale ty se časem samy v
 <li>Roco Z21. Tuto centrálu jsme nikdy nezkoušeli, ale nebál bych se s ní
 hJOPku provozovat. Na Z21 jsou obecně dobré reference. Stačí Start verze.</li>
 </ul>
-
-<p>hJOP bohužel není pravidelně testována na řízení příslušenství přes XpressNET.
-Příslušenství (výhybky, přestavníky, návěstidla, snímání detekce obsazení, ...)
-našich klubovních kolejišť je řízeno pomocí <a href="https://mtb.kmz-brno.cz/">systému
-MTB</a>, DCC centrálou řídíme jen jízdu vlaků.
-Proto nemáme s DCC komponenty pro řízení příslušenství moc zkušeností.
-Systém MTB bohužel (zatím) není dostupný ke koupi. Je možné, že nasazení hJOP
-v domácích podmínkách bude vyžadovat trochu trpělivosti, ale možné je.</p>
 </div>
 
 <hr />
