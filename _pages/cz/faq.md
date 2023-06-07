@@ -19,12 +19,13 @@ protokolu XpressNET. My jsme v klubu používali tyto centrály:</p>
 <li>NanoX. Celkem fungovalo, občas drobné problémy s firmwarem, nutné použít
 jiné LI než vestavěné. Vestavěnému LI se občas po delší době rozpadne komunikace.
 Vhodná levná centrála pro menší kolejiště. [2016]</li>
-<li>Lenz LZV100. Tuto centrálu máme aktuálně nasazenou na klubovním velkém kolejišti,
-funguje dobře. Nevýhodou je vyšší cena. Dnes je dostupný její následovník –
-LZV200, kterou jsme ale zatím nezkoušeli.[2020]</li>
-<li>Digikeijs DR5000. Tuto centrálu jsme zkoušeli, ale nebyli jsme schopni jak
-s vestavěným LI tak s externím LI komunikaci zprovoznit. 25. 4. 2020 jsme
-nahlásili chyby na Digikeijs, chyby zatím nebyly opraveny. [2020]</li>
+<li>Lenz LZV100. Tuto centrálu jsme chvíli používali na klubovním velkém kolejišti,
+fungovala dobře. Momentálně ji dlouhodobě úspěšně používáme pro řízení modulovky TT.
+Nevýhodou je vyšší cena. Dnes je dostupný její následovník – LZV200, kterou jsme
+ale zatím nezkoušeli.[2023]</li>
+<li>Digikeijs DR5000. Tuto centrálu aktuálně úspěšně používáme na velkém klubovním
+kolejišti H0. V počátku jsme s ní měli problémy, ale ty se časem samy vyřešily
+(vůbec netušíme jak). Centrálu používáme s externím uLI. [2023]</li>
 <li>Roco Z21. Tuto centrálu jsme nikdy nezkoušeli, ale nebál bych se s ní
 hJOPku provozovat. Na Z21 jsou obecně dobré reference. Stačí Start verze.</li>
 </ul>
