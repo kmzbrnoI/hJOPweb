@@ -9,11 +9,11 @@ hJOP je otevřený softwarový balík umožňující řídit modelové kolejišt
 
 {% include figure.html url="/assets/img/hJOPpanel-le-sy.png" caption="Příklad panelu stanic v hJOP." %}
 
-hJOP je vyvíjena [Klubem modelářů železnic Brno I](http://kmz-brno.cz/), kde je
+hJOP je vyvíjena [Klubem modelářů železnic Brno I](https://kmz-brno.cz/), kde je
 nasazena na modulových i pevných kolejištích. Je to hlavní software, kterým se
 řídí provoz na kolejištích. hJOP je nasazena také v [Laboratoři řízení
-kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/), která spolupracuje na
-jeho vývoji a testování.
+kolejových vozidel MENDELU](https://lrkv.pef.mendelu.cz/), která spolupracuje na
+jeho vývoji a testování, a na několika dalších soukromých kolejištích.
 
 hJOP umožňuje vytvořit libovolný layout kolejiště, vytvoření reliéfů je otázka
 *nakreslení reliéfu* a znalostí technologie zabezpečovacích zařízení skutečné
@@ -27,7 +27,7 @@ verzi ke stažení zdarma.
 Cílem hJOP je nabídnout bezpečné a pohodlné řízení modelového kolejiště podobné
 řízení skutečné české železnice. A to primárně ve výše zmíněném klubu,
 sekundárně i kdekoliv jinde. To se odráží například v tom, že hJOP podporuje
-i běžně dostupný komerční hardware. Je tedy možné ji nasadit i na domácí
+i běžně dostupný komerční hardware. hJOP je možné nasadit i na domácí
 kolejiště.
 
 <a class="btn btn-center" style="width:250px;" href="vyzkouset">Chci si vyzkoušet hJOP</a>
