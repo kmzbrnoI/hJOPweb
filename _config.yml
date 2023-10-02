@@ -45,6 +45,7 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 #
 # Recent posts.
@@ -84,12 +85,13 @@ t:
   en:
     description: "A Model Railroad Control Software based on ZTP-JOP"
     keywords: hJOP,JOP,train,model,sw,software
-    footer: "<a href='https://github.com/kmzbrnoI/hJOPweb'>This page</a> was created by <a href='http://apophis.cz/'>Jan Horáček</a> using <a href='http://jekyllrb.com'>Jekyll</a> with style <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
     str_recent_posts: News
     str_all_posts: All news
   cz:
     description: "Komplexní řešení řízení modelového kolejiště dle ZTP-JOP"
     keywords: hJOP,JOP,vláček,model,sw,program
-    footer: "<a href='https://github.com/kmzbrnoI/hJOPweb'>Tuto stránku</a> vytvořil <a href='http://apophis.cz/'>Jan Horáček</a> za použití nástroje <a href='http://jekyllrb.com'>Jekyll</a> a stylu <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
     str_recent_posts: Aktuality
     str_all_posts: Všechny aktuality
+
+last-modified-at:
+    date-format: '%%y-%b-%d'
