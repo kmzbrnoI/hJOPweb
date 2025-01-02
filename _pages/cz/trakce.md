@@ -16,7 +16,7 @@ Pokud máte zájem naprogramovat si vlastní knihovnu, můžete se podívat na
 [specifikaci API mezi hJOPserverem a knihovnou
 trakce](https://github.com/kmzbrnoI/xn-lib-cpp-qt/wiki).
 
-## XpressNET knihovna
+## 1. XpressNET knihovna
 
 [XpressNET knihovna](https://github.com/kmzbrnoI/xn-lib-cpp-qt) komunikuje
 pomocí LI s DCC centrálou podporující protokol XpressNET. Toto rozhraní bylo
@@ -26,7 +26,7 @@ a dodáváno jako samostatná knihovna.
 <a class="btn" href="https://github.com/kmzbrnoI/xn-lib-cpp-qt/releases">Stáhnout</a>
 <a class="btn" href="https://github.com/kmzbrnoI/xn-lib-cpp-qt">Zdrojové kódy</a>
 
-## Simulátor knihovna
+## 2. Simulátor knihovna
 
 [Simulační knihovna](https://github.com/kmzbrnoI/trakce-simulator) je určena
 primárně pro vývoj. Umožňuje simulovat centrálu bez nutnosti fyzického
