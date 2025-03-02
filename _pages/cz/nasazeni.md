@@ -28,6 +28,9 @@ Na této stránce je uveden seznam kolejišť řízených softwarem hJOP.
 5. Domácí kolejiště Jana Ryvoly.
   - RCS: MTB.
   - Trakce: XpressNET.
+6. Modulová stanice Vojty Jirmana
+  - RCS: XpressNET (DR5000).
+  - Trakce: nepoužita (pouze řízení stacionárních prvků kolejiště).
 
 Budeme rádi za doplnění a aktualizace seznamu. Napište [autorovi](/contact) nebo
 rovnou [vytvořte pull request](https://github.com/kmzbrnoI/hJOPweb/blob/master/_pages/cz/nasazeni.md).
