@@ -19,7 +19,7 @@ Na této stránce je uveden seznam kolejišť řízených softwarem hJOP.
 3. Modulovka H0, [Laboratoř řízení kolejových vozidel, MENDELU](https://lrkv.pef.mendelu.cz/).
   - RCS: MTB.
   - Trakce: XpressNET (uLI + DR5000).
-4. [Kolejiště H0 Harmanec Milana Sáblíka](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/)
+4. [Kolejiště H0 Harmanec Milana Sáblíka](https://www.kmz-brno.cz/rubrika/nase-kolejiste/tt/).
   - RCS: XpressNET (Lenz LI-USB-Eth, LZV100).
   - Trakce: XpressNET (uLI, stejná LZV100 jako pro RCS).
   - Zajímavé funkce: automatické stavění vjezdových vlakových cest ve skryté stanici, zobrazování aktuálního
@@ -28,7 +28,7 @@ Na této stránce je uveden seznam kolejišť řízených softwarem hJOP.
 5. Domácí kolejiště Jana Ryvoly.
   - RCS: MTB.
   - Trakce: XpressNET.
-6. Modulová stanice Vojty Jirmana
+6. Modulová stanice Vojty Jirmana.
   - RCS: XpressNET (DR5000).
   - Trakce: nepoužita (pouze řízení stacionárních prvků kolejiště).
 
