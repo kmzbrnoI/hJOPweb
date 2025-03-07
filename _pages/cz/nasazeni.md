@@ -31,6 +31,10 @@ Na této stránce je uveden seznam kolejišť řízených softwarem hJOP.
 6. Modulová stanice Vojty Jirmana.
   - RCS: XpressNET (DR5000).
   - Trakce: nepoužita (pouze řízení stacionárních prvků kolejiště).
+7. Domácí kolejiště Davida Neumayera.
+  - RCS: XpressNET (Z21, uLI).
+  - Trakce: XpressNET (stejná Z21, Gen-LI).
+  - Zpětné hlášení přes S88N, UL16-A03, návěstidla Němeček s dekodérem PeLi.
 
 Budeme rádi za doplnění a aktualizace seznamu. Napište [autorovi](/contact) nebo
 rovnou [vytvořte pull request](https://github.com/kmzbrnoI/hJOPweb/blob/master/_pages/cz/nasazeni.md).
