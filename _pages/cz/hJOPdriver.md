@@ -42,3 +42,4 @@ umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
  * Rozlišení mezi ručním řízením (vhodné např. pro posun) a poloručním
    řízením (vhodné např. pro řízeni funkcí HV v trati).
  * Zobrazení návěstního opakovače.
+ * Vlakový zabezpečovač.
