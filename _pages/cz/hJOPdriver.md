@@ -28,6 +28,10 @@ umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
  <img src="/assets/img/hJOpdriver-cz-loco.png" style="max-width: 200px;" />
 </div>
 
+[Novinka 2025: vlakový zabezpečovač.](/2025/03/25/hjopdriver-v2.1/)
+
+<a class="btn" href="https://youtube.com/shorts/pHLn-Pu8gQA?si=-T0vwPiKkTKhU1it">Ukázka fungování vlakového zabezpečovače</a>
+
 ## Funkce
 
  * Automatické vyhledání serverů v síti, výběr serveru.
