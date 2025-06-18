@@ -6,7 +6,7 @@ order: 107
 lang: cz
 ---
 
-Projekt hJOP vytvořil a vytváří [Honza Horáček](https://apophis.cz/), aktivní člen
+Projekt hJOP vytvořil a vytváří [Honza Malina](https://apophis.cz/) (roz. Horáček), aktivní člen
 [Klubu modelářů železnic Brno I](https://kmz-brno.cz/), vývojář vlakových
 zabezpečovačů ve společnosti [AŽD](https://www.azd.cz/) a do roku 2021 student
 [Fakulty informatiky Masarykovy univerzity](https://fi.muni.cz/). Přidružené

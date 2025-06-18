@@ -6,7 +6,7 @@ order: 100
 lang: cz
 ---
 
- * [Jan Horáček](http://apophis.cz/), autor projektu hJOP.
+ * [Jan Malina](http://apophis.cz/), autor projektu hJOP.
  * [Klub modelářů železnic Brno I](http://kmz-brno.cz/).
  * [Klub modelářů železnic Brno I na githubu](https://github.com/kmzbrnoI/).
  * [Laboratoř řízení kolejových vozidel](http://lrkv.pef.mendelu.cz/).
