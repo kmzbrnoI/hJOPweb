@@ -35,6 +35,9 @@ Na této stránce je uveden seznam kolejišť řízených softwarem hJOP.
   - RCS: XpressNET (Z21, uLI).
   - Trakce: XpressNET (stejná Z21, Gen-LI).
   - Zpětné hlášení přes S88N, UL16-A03, návěstidla Němeček s dekodérem PeLi.
+8. Školní kolejiště na SPŠ Trnava
+  - RCS: XpressNET (DR5000, vestavěné LI).
+  - Trakce: nepoužita (pouze řízení stacionárních prvků kolejiště).
 
 Budeme rádi za doplnění a aktualizace seznamu. Napište [autorovi](/contact) nebo
 rovnou [vytvořte pull request](https://github.com/kmzbrnoI/hJOPweb/blob/master/_pages/cz/nasazeni.md).
