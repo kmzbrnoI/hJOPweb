@@ -35,4 +35,4 @@ hotové reliéfy, takže software můžete ovládat třeba jako Staničáře.
 
 ## Chci řídit své kolejiště pomocí hJOP
 
-rojděte si stránku [Chci nasadit hJOP](/navod).
+Projděte si stránku [Chci nasadit hJOP](/navod).
