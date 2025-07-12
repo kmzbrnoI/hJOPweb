@@ -18,10 +18,9 @@ Nová verze 2.3 oproti verzi 2.1 přináší vylepšení vlakového zabezpečova
   telefonu (plné zvuky / pouze vibrace / vše ztlumeno).
 * Do zprávy `HELLO` hJOPserveru doplněno jméno aplikace (novinka v protokolu).
 
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/cz.mendelu.xmarik.train_manager/)
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
      alt="Get it on Google Play"
      height="80">](https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/cz.mendelu.xmarik.train_manager/)

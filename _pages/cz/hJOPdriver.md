@@ -10,9 +10,14 @@ hJOPdriver je mobilní aplikace pro OS Android, která umožňuje řídit
 jízdu hnacích vozidel ve spolupráci s hJOP. Plně podporuje workflow předávání
 a uvolňování lokomotiv za využití spolupráce dispečerů.
 
-<a class="btn" href="https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager">Dostupné na Google Play</a>
-<a class="btn" href="https://f-droid.org/packages/cz.mendelu.xmarik.train_manager/">F-Droid</a>
-<a class="btn" href="https://github.com/kmzbrnoI/hJOPandroidDriver">Zdrojové kódy</a>
+<div style="text-align: center;">
+<a href="https://play.google.com/store/apps/details?id=cz.mendelu.xmarik.train_manager" target="_blank">
+ <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80">
+</a>
+<a href="https://f-droid.org/packages/cz.mendelu.xmarik.train_manager/" target="_blank">
+ <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">
+</a>
+</div>
 
 {% include figure.html url="/assets/img/hJOPdriver-cz-loco-landscape.png"
    caption="Ukázka rozhraní aplikace hJOPdriver" img-style="max-width: 600px;"%}
@@ -22,6 +27,8 @@ Aplikace vznikla jako [diplomová práce](http://is.mendelu.cz/lide/clovek.pl?id
 v [Laboratoři řízení kolejových vozidel MENDELU](http://lrkv.pef.mendelu.cz/)
 pod vedením doc. Jiřího Rybičky a s technickou asistencí Jana Horáčka. Aplikace
 umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
+
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPandroidDriver">Zdrojové kódy</a>
 
 <div style="text-align: center;">
  <img src="/assets/img/hJOPdriver-cz-serverlist.png" style="max-width: 200px;" />
