@@ -11,8 +11,8 @@ lang: cz
 hJOPvyznamy je jedna přehledná strana A4 obsahující nápovědy ke všem položkám
 ve všech menu hJOP.
 
-<a class="btn" href="https://github.com/horacekj/hJOPvyznamy/releases/latest/download/hJOPvyznamy.pdf">Stáhnout PDF</a>
-<a class="btn" href="https://github.com/horacekj/hJOPvyznamy">Zdrojová data</a>
+<a class="btn" href="https://github.com/malinajan/hJOPvyznamy/releases/latest/download/hJOPvyznamy.pdf">Stáhnout PDF</a>
+<a class="btn" href="https://github.com/malinajan/hJOPvyznamy">Zdrojová data</a>
 
 
 ## hJOPquiz
