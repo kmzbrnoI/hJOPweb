@@ -15,13 +15,13 @@ ve všech menu hJOP.
 <a class="btn" href="https://github.com/malinajan/hJOPvyznamy">Zdrojová data</a>
 
 
-## hJOPquiz
+## Školení hJOP – hJOPquiz
 
-hJOPquiz je dokument obsahující otázky, kterými se testuje způsobilost
-dispečerů k obsluze hJOP.
+hJOPquiz je dokument obsahující otázky a odpovědi, kterými se testuje
+způsobilost výpravčích a strojvedoucích k obsluze hJOP v KMŽ Brno I.
 
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPquiz/releases/latest/download/hJOPquiz.pdf">PDF s otázkami</a>
-<a class="btn" href="https://github.com/kmzbrnoI/hJOPquiz/releases/latest/download/hJOPquizKey.pdf">PDF s odpověďmi</a>
+<a class="btn" href="https://github.com/kmzbrnoI/hJOPquiz/releases/latest/download/hJOPquizKey.pdf">PDF s odpověďmi</a>
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPquiz">Zdrojová data</a>
 
 ## Automatická kalibrace
