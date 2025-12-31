@@ -38,6 +38,10 @@ Na této stránce je uveden seznam kolejišť řízených softwarem hJOP.
 8. Školní kolejiště na SPŠ Trnava.
   - RCS: XpressNET (DR5000, vestavěné LI).
   - Trakce: nepoužita (pouze řízení stacionárních prvků kolejiště).
+9. Školní kolejiště Střední odborné školy Frýdek-Místek.
+  - Kolejiště tvoří šestikolejná stanice a dvoukolejná výhybna.
+  - RCS: MTB.
+  - Trakce: XpressNET (Z21, uLI).
 
 Budeme rádi za doplnění a aktualizace seznamu. Napište [autorovi](/contact) nebo
 rovnou [vytvořte pull request](https://github.com/kmzbrnoI/hJOPweb/blob/master/_pages/cz/nasazeni.md).
