@@ -39,10 +39,6 @@ umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
  </a>
 </div>
 
-[Novinka 2025: vlakový zabezpečovač.](/2025/03/25/hjopdriver-v2.1/)
-
-<a class="btn" href="https://youtube.com/shorts/pHLn-Pu8gQA?si=-T0vwPiKkTKhU1it">Ukázka fungování vlakového zabezpečovače</a>
-
 ## Funkce
 
  * Automatické vyhledání serverů v síti, výběr serveru.
@@ -58,3 +54,8 @@ umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
    řízením (vhodné např. pro řízeni funkcí HV v trati).
  * Zobrazení návěstního opakovače.
  * Vlakový zabezpečovač.
+
+## Ukázka fungování vlakového zabezpečovače
+
+<iframe height="500" src="https://www.youtube.com/embed/pHLn-Pu8gQA" title="Vlakový zabezpečovač hJOPdriver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
