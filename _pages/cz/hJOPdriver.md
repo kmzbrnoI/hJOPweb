@@ -31,8 +31,12 @@ umožňuje vše, co umožňuje [Jerry](/Jerry), jen na mobilní platformě.
 <a class="btn" href="https://github.com/kmzbrnoI/hJOPandroidDriver">Zdrojové kódy</a>
 
 <div style="text-align: center;">
- <img src="/assets/img/hJOPdriver-cz-serverlist.png" style="max-width: 200px;" />
- <img src="/assets/img/hJOpdriver-cz-loco.png" style="max-width: 200px;" />
+ <a href="/assets/img/hJOPdriver-cz-serverlist.png">
+  <img src="/assets/img/hJOPdriver-cz-serverlist.png" style="max-width: 200px;" />
+ </a>
+ <a href="/assets/img/hJOpdriver-cz-loco.png">
+  <img src="/assets/img/hJOpdriver-cz-loco.png" style="max-width: 200px;" />
+ </a>
 </div>
 
 [Novinka 2025: vlakový zabezpečovač.](/2025/03/25/hjopdriver-v2.1/)
