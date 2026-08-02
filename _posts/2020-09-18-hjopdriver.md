@@ -5,7 +5,7 @@ tags: hJOPdriver upgrade
 lang: cz
 ---
 
-Do aplikace [hJOPdriver](/androidDriver) bylo doplněno zobrazení návěstního
+Do aplikace [hJOPdriver](/hJOPdriver) bylo doplněno zobrazení návěstního
 opakovače a očekávané rychlosti hnacího vozidla.
 
 <img src="/assets/img/hJOPdriverSignal.png" alt="Screenshot hJOPdriver"
