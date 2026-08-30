@@ -42,6 +42,10 @@ Na této stránce je uveden seznam kolejišť řízených softwarem hJOP.
   - Kolejiště tvoří šestikolejná stanice a dvoukolejná výhybna.
   - RCS: MTB.
   - Trakce: XpressNET (Z21, uLI).
+10. Domácí kolejiště Honzy Záleského.
+  - Kolejiště tvoří pětikolejná stanice Dalešice s vlečkami a depem a tříkolejná skrytá stanice.
+  - RCS: MTB.
+  - Trakce: XpressNET (DR5000, vestavěné LI).
 
 Budeme rádi za doplnění a aktualizace seznamu. Napište [autorovi](/contact) nebo
 rovnou [vytvořte pull request](https://github.com/kmzbrnoI/hJOPweb/blob/master/_pages/cz/nasazeni.md).
